@@ -1,1 +1,391 @@
-[]
+[
+  {
+    "id": "ch06-sc01",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0004",
+    "source_paragraph_ids": [
+      "p0004"
+    ],
+    "description": "The three boys study Michael’s route map before their candy quest.",
+    "alt": "The three boys study Michael’s route map before their candy quest.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch06-sc02",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0012",
+    "source_paragraph_ids": [
+      "p0012"
+    ],
+    "description": "A.J., Ryan and Michael pass four children dressed as giant bananas.",
+    "alt": "A.J., Ryan and Michael pass four children dressed as giant bananas.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-STUDENTS-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch06-sc03",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0028",
+    "source_paragraph_ids": [
+      "p0028"
+    ],
+    "description": "Mrs. Cooney offers apples, carrots and nuts at her front door.",
+    "alt": "Mrs. Cooney offers apples, carrots and nuts at her front door.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-COONEY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch06-sc04",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0045",
+    "source_paragraph_ids": [
+      "p0045"
+    ],
+    "description": "A furry costumed figure jumps from behind a wall in front of the boys.",
+    "alt": "A furry costumed figure jumps from behind a wall in front of the boys.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-BILLY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch07-sc01",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0048",
+    "source_paragraph_ids": [
+      "p0048"
+    ],
+    "description": "The costumed figure frightens the three boys beside the wall.",
+    "alt": "The costumed figure frightens the three boys beside the wall.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-BILLY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch07-sc02",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0054",
+    "source_paragraph_ids": [
+      "p0054"
+    ],
+    "description": "Billy removes the furry mask and reveals his identity.",
+    "alt": "Billy removes the furry mask and reveals his identity.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-BILLY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch07-sc03",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0064",
+    "source_paragraph_ids": [
+      "p0064"
+    ],
+    "description": "Michael shows Billy their route to Mrs. Patty’s house.",
+    "alt": "Michael shows Billy their route to Mrs. Patty’s house.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-BILLY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch07-sc04",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0077",
+    "source_paragraph_ids": [
+      "p0077"
+    ],
+    "description": "Billy leaves; A.J. puts a hand over his neck.",
+    "alt": "Billy leaves; A.J. puts a hand over his neck.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-BILLY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch08-sc01",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0083",
+    "source_paragraph_ids": [
+      "p0083"
+    ],
+    "description": "The three boys continue down the now-dark street.",
+    "alt": "The three boys continue down the now-dark street.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch08-sc02",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "Andrea and Emily join the boys on Norman Road.",
+    "alt": "Andrea and Emily join the boys on Norman Road.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch08-sc03",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "Five children inspect the mansion’s Halloween decorations through the iron gate.",
+    "alt": "Five children inspect the mansion’s Halloween decorations through the iron gate.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch08-sc04",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0096",
+    "source_paragraph_ids": [
+      "p0096"
+    ],
+    "description": "The iron gate opens without anyone touching it.",
+    "alt": "The iron gate opens without anyone touching it.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch09-sc01",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0105",
+    "source_paragraph_ids": [
+      "p0105"
+    ],
+    "description": "A.J. gets his foot stuck in a pumpkin on the porch.",
+    "alt": "A.J. gets his foot stuck in a pumpkin on the porch.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch09-sc02",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0119",
+    "source_paragraph_ids": [
+      "p0119"
+    ],
+    "description": "Mrs. Patty asks a candy arithmetic question at the front door.",
+    "alt": "Mrs. Patty asks a candy arithmetic question at the front door.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01",
+      "MWS13-PATTY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch09-sc03",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "The five children lose their way in the basement hallway.",
+    "alt": "The five children lose their way in the basement hallway.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch09-sc04",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "A.J. turns the doorknob while the four friends wait.",
+    "alt": "A.J. turns the doorknob while the four friends wait.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01"
+    ],
+    "state": "Halloween evening",
+    "status": "planned"
+  },
+  {
+    "id": "ch10-sc01",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0125",
+    "source_paragraph_ids": [
+      "p0125"
+    ],
+    "description": "An apparent headless mummy rises from the trunk holding its theatrical head.",
+    "alt": "An apparent headless mummy rises from the trunk holding its theatrical head.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01",
+      "MWS13-NEIL-01",
+      "MWS13-ANNETTE-01",
+      "MWS13-MARVIN-01",
+      "MWS13-STUDENTS-01"
+    ],
+    "state": "Basement party, then bedtime",
+    "status": "planned"
+  },
+  {
+    "id": "ch10-sc02",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0134",
+    "source_paragraph_ids": [
+      "p0134"
+    ],
+    "description": "Mr. Klutz emerges in his king costume with crown and sword.",
+    "alt": "Mr. Klutz emerges in his king costume with crown and sword.",
+    "character_ids": [
+      "MWS13-AJ-01",
+      "MWS13-RYAN-01",
+      "MWS13-MICHAEL-01",
+      "MWS13-ANDREA-01",
+      "MWS13-EMILY-01",
+      "MWS13-KLUTZ-01",
+      "MWS13-MARVIN-01"
+    ],
+    "state": "Basement party, then bedtime",
+    "status": "planned"
+  },
+  {
+    "id": "ch10-sc03",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0137",
+    "source_paragraph_ids": [
+      "p0137"
+    ],
+    "description": "Mr. Klutz and the mummy perform their theatrical sword duel.",
+    "alt": "Mr. Klutz and the mummy perform their theatrical sword duel.",
+    "character_ids": [
+      "MWS13-KLUTZ-01",
+      "MWS13-MARVIN-01"
+    ],
+    "state": "Basement party, then bedtime",
+    "status": "planned"
+  },
+  {
+    "id": "ch10-sc04",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0152",
+    "source_paragraph_ids": [
+      "p0152"
+    ],
+    "description": "A.J. lies in bed in ordinary covered sleepwear after the candy party.",
+    "alt": "A.J. lies in bed in ordinary covered sleepwear after the candy party.",
+    "character_ids": [
+      "MWS13-AJ-01"
+    ],
+    "state": "Basement party, then bedtime",
+    "status": "planned"
+  }
+]

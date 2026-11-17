@@ -479,5 +479,9 @@
       "visibility": "group"
     }
   ],
-  "reference_images": []
+  "reference_images": [
+    "assets/students-reference.webp",
+    "assets/adults-reference.webp",
+    "assets/supporting-reference.webp"
+  ]
 }
