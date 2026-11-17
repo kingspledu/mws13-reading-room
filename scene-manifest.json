@@ -1,10 +1,40 @@
 [
   {
+    "id": "c06p01-b001-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b001",
+    "insert_after_paragraph_id": "p0001",
+    "source_paragraph_ids": [
+      "p0001"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b002-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b002",
+    "insert_after_paragraph_id": "p0003",
+    "source_paragraph_ids": [
+      "p0002",
+      "p0003"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
     "id": "ch06-sc01",
     "book_chapter": 6,
     "chapter_id": "chapter-001",
     "insert_after_paragraph_id": "p0004",
     "source_paragraph_ids": [
+      "p0003",
       "p0004"
     ],
     "description": "The three boys study Michael’s route map before their candy quest.",
@@ -23,7 +53,109 @@
     "quadrant": 1,
     "generated_at": "20261117T063846922903Z",
     "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
-    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct.",
+    "dense_block_id": "c06p01-b003"
+  },
+  {
+    "id": "c06p01-b004-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b004",
+    "insert_after_paragraph_id": "p0005",
+    "source_paragraph_ids": [
+      "p0005"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b005-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b005",
+    "insert_after_paragraph_id": "p0006",
+    "source_paragraph_ids": [
+      "p0006"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b006-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b006",
+    "insert_after_paragraph_id": "p0007",
+    "source_paragraph_ids": [
+      "p0007"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b007-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b007",
+    "insert_after_paragraph_id": "p0009",
+    "source_paragraph_ids": [
+      "p0007",
+      "p0008",
+      "p0009"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b008-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b008",
+    "insert_after_paragraph_id": "p0011",
+    "source_paragraph_ids": [
+      "p0010",
+      "p0011"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b009-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b009",
+    "insert_after_paragraph_id": "p0012",
+    "source_paragraph_ids": [
+      "p0012"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b010-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b010",
+    "insert_after_paragraph_id": "p0012",
+    "source_paragraph_ids": [
+      "p0012"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch06-sc02",
@@ -50,7 +182,171 @@
     "quadrant": 2,
     "generated_at": "20261117T063846922903Z",
     "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
-    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct.",
+    "dense_block_id": "c06p01-b011"
+  },
+  {
+    "id": "c06p01-b012-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b012",
+    "insert_after_paragraph_id": "p0013",
+    "source_paragraph_ids": [
+      "p0012",
+      "p0013"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b013-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b013",
+    "insert_after_paragraph_id": "p0014",
+    "source_paragraph_ids": [
+      "p0013",
+      "p0014"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p01-b014-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-001",
+    "dense_block_id": "c06p01-b014",
+    "insert_after_paragraph_id": "p0016",
+    "source_paragraph_ids": [
+      "p0015",
+      "p0016"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b001-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b001",
+    "insert_after_paragraph_id": "p0019",
+    "source_paragraph_ids": [
+      "p0017",
+      "p0018",
+      "p0019"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b002-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b002",
+    "insert_after_paragraph_id": "p0021",
+    "source_paragraph_ids": [
+      "p0020",
+      "p0021"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b003-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b003",
+    "insert_after_paragraph_id": "p0022",
+    "source_paragraph_ids": [
+      "p0022"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b004-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b004",
+    "insert_after_paragraph_id": "p0023",
+    "source_paragraph_ids": [
+      "p0023"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b005-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b005",
+    "insert_after_paragraph_id": "p0024",
+    "source_paragraph_ids": [
+      "p0023",
+      "p0024"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b006-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b006",
+    "insert_after_paragraph_id": "p0024",
+    "source_paragraph_ids": [
+      "p0024"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b007-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b007",
+    "insert_after_paragraph_id": "p0026",
+    "source_paragraph_ids": [
+      "p0025",
+      "p0026"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b008-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b008",
+    "insert_after_paragraph_id": "p0027",
+    "source_paragraph_ids": [
+      "p0026",
+      "p0027"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch06-sc03",
@@ -77,15 +373,223 @@
     "quadrant": 3,
     "generated_at": "20261117T063846922903Z",
     "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
-    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct.",
+    "dense_block_id": "c06p02-b009"
+  },
+  {
+    "id": "c06p02-b010-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b010",
+    "insert_after_paragraph_id": "p0029",
+    "source_paragraph_ids": [
+      "p0028",
+      "p0029"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b011-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b011",
+    "insert_after_paragraph_id": "p0032",
+    "source_paragraph_ids": [
+      "p0030",
+      "p0031",
+      "p0032"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b012-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b012",
+    "insert_after_paragraph_id": "p0032",
+    "source_paragraph_ids": [
+      "p0032"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p02-b013-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-002",
+    "dense_block_id": "c06p02-b013",
+    "insert_after_paragraph_id": "p0033",
+    "source_paragraph_ids": [
+      "p0032",
+      "p0033"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b001-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b001",
+    "insert_after_paragraph_id": "p0034",
+    "source_paragraph_ids": [
+      "p0034"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b002-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b002",
+    "insert_after_paragraph_id": "p0035",
+    "source_paragraph_ids": [
+      "p0034",
+      "p0035"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b003-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b003",
+    "insert_after_paragraph_id": "p0036",
+    "source_paragraph_ids": [
+      "p0036"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b004-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b004",
+    "insert_after_paragraph_id": "p0036",
+    "source_paragraph_ids": [
+      "p0036"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b005-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b005",
+    "insert_after_paragraph_id": "p0038",
+    "source_paragraph_ids": [
+      "p0036",
+      "p0037",
+      "p0038"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b006-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b006",
+    "insert_after_paragraph_id": "p0040",
+    "source_paragraph_ids": [
+      "p0039",
+      "p0040"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b007-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b007",
+    "insert_after_paragraph_id": "p0041",
+    "source_paragraph_ids": [
+      "p0040",
+      "p0041"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b008-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b008",
+    "insert_after_paragraph_id": "p0042",
+    "source_paragraph_ids": [
+      "p0042"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b009-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b009",
+    "insert_after_paragraph_id": "p0042",
+    "source_paragraph_ids": [
+      "p0042"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c06p03-b010-scene",
+    "book_chapter": 6,
+    "chapter_id": "chapter-003",
+    "dense_block_id": "c06p03-b010",
+    "insert_after_paragraph_id": "p0044",
+    "source_paragraph_ids": [
+      "p0043",
+      "p0044"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch06-sc04",
     "book_chapter": 6,
     "chapter_id": "chapter-003",
-    "insert_after_paragraph_id": "p0045",
+    "insert_after_paragraph_id": "p0046",
     "source_paragraph_ids": [
-      "p0045"
+      "p0045",
+      "p0046"
     ],
     "description": "A furry costumed figure jumps from behind a wall in front of the boys.",
     "alt": "A furry costumed figure jumps from behind a wall in front of the boys.",
@@ -104,15 +608,32 @@
     "quadrant": 4,
     "generated_at": "20261117T063846922903Z",
     "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
-    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct.",
+    "dense_block_id": "c06p03-b011"
+  },
+  {
+    "id": "c07p01-b001-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b001",
+    "insert_after_paragraph_id": "p0048",
+    "source_paragraph_ids": [
+      "p0047",
+      "p0048"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch07-sc01",
     "book_chapter": 7,
     "chapter_id": "chapter-004",
-    "insert_after_paragraph_id": "p0048",
+    "insert_after_paragraph_id": "p0049",
     "source_paragraph_ids": [
-      "p0048"
+      "p0048",
+      "p0049"
     ],
     "description": "The costumed figure frightens the three boys beside the wall.",
     "alt": "The costumed figure frightens the three boys beside the wall.",
@@ -131,15 +652,63 @@
     "quadrant": 1,
     "generated_at": "20261117T063944396763Z",
     "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
-    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks.",
+    "dense_block_id": "c07p01-b002"
+  },
+  {
+    "id": "c07p01-b003-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b003",
+    "insert_after_paragraph_id": "p0050",
+    "source_paragraph_ids": [
+      "p0049",
+      "p0050"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b004-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b004",
+    "insert_after_paragraph_id": "p0051",
+    "source_paragraph_ids": [
+      "p0050",
+      "p0051"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b005-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b005",
+    "insert_after_paragraph_id": "p0053",
+    "source_paragraph_ids": [
+      "p0052",
+      "p0053"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch07-sc02",
     "book_chapter": 7,
     "chapter_id": "chapter-004",
-    "insert_after_paragraph_id": "p0054",
+    "insert_after_paragraph_id": "p0056",
     "source_paragraph_ids": [
-      "p0054"
+      "p0054",
+      "p0055",
+      "p0056"
     ],
     "description": "Billy removes the furry mask and reveals his identity.",
     "alt": "Billy removes the furry mask and reveals his identity.",
@@ -158,15 +727,77 @@
     "quadrant": 2,
     "generated_at": "20261117T063944396763Z",
     "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
-    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks.",
+    "dense_block_id": "c07p01-b006"
+  },
+  {
+    "id": "c07p01-b007-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b007",
+    "insert_after_paragraph_id": "p0058",
+    "source_paragraph_ids": [
+      "p0057",
+      "p0058"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b008-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b008",
+    "insert_after_paragraph_id": "p0060",
+    "source_paragraph_ids": [
+      "p0059",
+      "p0060"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b009-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b009",
+    "insert_after_paragraph_id": "p0061",
+    "source_paragraph_ids": [
+      "p0060",
+      "p0061"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b010-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b010",
+    "insert_after_paragraph_id": "p0063",
+    "source_paragraph_ids": [
+      "p0062",
+      "p0063"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch07-sc03",
     "book_chapter": 7,
     "chapter_id": "chapter-004",
-    "insert_after_paragraph_id": "p0064",
+    "insert_after_paragraph_id": "p0065",
     "source_paragraph_ids": [
-      "p0064"
+      "p0064",
+      "p0065"
     ],
     "description": "Michael shows Billy their route to Mrs. Patty’s house.",
     "alt": "Michael shows Billy their route to Mrs. Patty’s house.",
@@ -185,7 +816,156 @@
     "quadrant": 3,
     "generated_at": "20261117T063944396763Z",
     "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
-    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks.",
+    "dense_block_id": "c07p01-b011"
+  },
+  {
+    "id": "c07p01-b012-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b012",
+    "insert_after_paragraph_id": "p0067",
+    "source_paragraph_ids": [
+      "p0065",
+      "p0066",
+      "p0067"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b013-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b013",
+    "insert_after_paragraph_id": "p0068",
+    "source_paragraph_ids": [
+      "p0067",
+      "p0068"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b014-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b014",
+    "insert_after_paragraph_id": "p0068",
+    "source_paragraph_ids": [
+      "p0068"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b015-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b015",
+    "insert_after_paragraph_id": "p0070",
+    "source_paragraph_ids": [
+      "p0069",
+      "p0070"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b016-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b016",
+    "insert_after_paragraph_id": "p0072",
+    "source_paragraph_ids": [
+      "p0071",
+      "p0072"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b017-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b017",
+    "insert_after_paragraph_id": "p0073",
+    "source_paragraph_ids": [
+      "p0072",
+      "p0073"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b018-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b018",
+    "insert_after_paragraph_id": "p0074",
+    "source_paragraph_ids": [
+      "p0073",
+      "p0074"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b019-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b019",
+    "insert_after_paragraph_id": "p0075",
+    "source_paragraph_ids": [
+      "p0074",
+      "p0075"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b020-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b020",
+    "insert_after_paragraph_id": "p0075",
+    "source_paragraph_ids": [
+      "p0075"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c07p01-b021-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b021",
+    "insert_after_paragraph_id": "p0076",
+    "source_paragraph_ids": [
+      "p0076"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch07-sc04",
@@ -193,6 +973,7 @@
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0077",
     "source_paragraph_ids": [
+      "p0076",
       "p0077"
     ],
     "description": "Billy leaves; A.J. puts a hand over his neck.",
@@ -212,7 +993,81 @@
     "quadrant": 4,
     "generated_at": "20261117T063944396763Z",
     "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
-    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks.",
+    "dense_block_id": "c07p01-b022"
+  },
+  {
+    "id": "c07p01-b023-scene",
+    "book_chapter": 7,
+    "chapter_id": "chapter-004",
+    "dense_block_id": "c07p01-b023",
+    "insert_after_paragraph_id": "p0077",
+    "source_paragraph_ids": [
+      "p0077"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b001-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b001",
+    "insert_after_paragraph_id": "p0079",
+    "source_paragraph_ids": [
+      "p0078",
+      "p0079"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b002-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b002",
+    "insert_after_paragraph_id": "p0079",
+    "source_paragraph_ids": [
+      "p0079"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b003-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b003",
+    "insert_after_paragraph_id": "p0080",
+    "source_paragraph_ids": [
+      "p0079",
+      "p0080"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b004-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b004",
+    "insert_after_paragraph_id": "p0081",
+    "source_paragraph_ids": [
+      "p0080",
+      "p0081"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch08-sc01",
@@ -220,6 +1075,7 @@
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0083",
     "source_paragraph_ids": [
+      "p0082",
       "p0083"
     ],
     "description": "The three boys continue down the now-dark street.",
@@ -238,15 +1094,90 @@
     "quadrant": 1,
     "generated_at": "20261117T064033494232Z",
     "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
-    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations.",
+    "dense_block_id": "c08p01-b005"
+  },
+  {
+    "id": "c08p01-b006-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b006",
+    "insert_after_paragraph_id": "p0083",
+    "source_paragraph_ids": [
+      "p0083"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b007-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b007",
+    "insert_after_paragraph_id": "p0085",
+    "source_paragraph_ids": [
+      "p0084",
+      "p0085"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b008-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b008",
+    "insert_after_paragraph_id": "p0086",
+    "source_paragraph_ids": [
+      "p0085",
+      "p0086"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b009-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b009",
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b010-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b010",
+    "insert_after_paragraph_id": "p0089",
+    "source_paragraph_ids": [
+      "p0088",
+      "p0089"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch08-sc02",
     "book_chapter": 8,
     "chapter_id": "chapter-005",
-    "insert_after_paragraph_id": "p0090",
+    "insert_after_paragraph_id": "p0091",
     "source_paragraph_ids": [
-      "p0090"
+      "p0090",
+      "p0091"
     ],
     "description": "Andrea and Emily join the boys on Norman Road.",
     "alt": "Andrea and Emily join the boys on Norman Road.",
@@ -266,7 +1197,22 @@
     "quadrant": 2,
     "generated_at": "20261117T064033494232Z",
     "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
-    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations.",
+    "dense_block_id": "c08p01-b011"
+  },
+  {
+    "id": "c08p01-b012-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b012",
+    "insert_after_paragraph_id": "p0091",
+    "source_paragraph_ids": [
+      "p0091"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch08-sc03",
@@ -274,6 +1220,7 @@
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0093",
     "source_paragraph_ids": [
+      "p0092",
       "p0093"
     ],
     "description": "Five children inspect the mansion’s Halloween decorations through the iron gate.",
@@ -294,7 +1241,51 @@
     "quadrant": 3,
     "generated_at": "20261117T064033494232Z",
     "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
-    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations.",
+    "dense_block_id": "c08p01-b013"
+  },
+  {
+    "id": "c08p01-b014-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b014",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b015-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b015",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c08p01-b016-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b016",
+    "insert_after_paragraph_id": "p0094",
+    "source_paragraph_ids": [
+      "p0093",
+      "p0094"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch08-sc04",
@@ -302,6 +1293,7 @@
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0096",
     "source_paragraph_ids": [
+      "p0095",
       "p0096"
     ],
     "description": "The iron gate opens without anyone touching it.",
@@ -322,15 +1314,120 @@
     "quadrant": 4,
     "generated_at": "20261117T064033494232Z",
     "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
-    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations.",
+    "dense_block_id": "c08p01-b017"
+  },
+  {
+    "id": "c08p01-b018-scene",
+    "book_chapter": 8,
+    "chapter_id": "chapter-005",
+    "dense_block_id": "c08p01-b018",
+    "insert_after_paragraph_id": "p0097",
+    "source_paragraph_ids": [
+      "p0096",
+      "p0097"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b001-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b001",
+    "insert_after_paragraph_id": "p0099",
+    "source_paragraph_ids": [
+      "p0098",
+      "p0099"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b002-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b002",
+    "insert_after_paragraph_id": "p0100",
+    "source_paragraph_ids": [
+      "p0099",
+      "p0100"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b003-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b003",
+    "insert_after_paragraph_id": "p0102",
+    "source_paragraph_ids": [
+      "p0100",
+      "p0101",
+      "p0102"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b004-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b004",
+    "insert_after_paragraph_id": "p0103",
+    "source_paragraph_ids": [
+      "p0103"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b005-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b005",
+    "insert_after_paragraph_id": "p0104",
+    "source_paragraph_ids": [
+      "p0104"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b006-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b006",
+    "insert_after_paragraph_id": "p0104",
+    "source_paragraph_ids": [
+      "p0104"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch09-sc01",
     "book_chapter": 9,
     "chapter_id": "chapter-006",
-    "insert_after_paragraph_id": "p0105",
+    "insert_after_paragraph_id": "p0106",
     "source_paragraph_ids": [
-      "p0105"
+      "p0105",
+      "p0106"
     ],
     "description": "A.J. gets his foot stuck in a pumpkin on the porch.",
     "alt": "A.J. gets his foot stuck in a pumpkin on the porch.",
@@ -350,7 +1447,143 @@
     "quadrant": 1,
     "generated_at": "20261117T064530483534Z",
     "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
-    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally.",
+    "dense_block_id": "c09p01-b007"
+  },
+  {
+    "id": "c09p01-b008-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b008",
+    "insert_after_paragraph_id": "p0108",
+    "source_paragraph_ids": [
+      "p0107",
+      "p0108"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b009-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b009",
+    "insert_after_paragraph_id": "p0108",
+    "source_paragraph_ids": [
+      "p0108"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b010-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b010",
+    "insert_after_paragraph_id": "p0109",
+    "source_paragraph_ids": [
+      "p0109"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b011-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b011",
+    "insert_after_paragraph_id": "p0111",
+    "source_paragraph_ids": [
+      "p0109",
+      "p0110",
+      "p0111"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b012-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b012",
+    "insert_after_paragraph_id": "p0113",
+    "source_paragraph_ids": [
+      "p0111",
+      "p0112",
+      "p0113"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b013-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b013",
+    "insert_after_paragraph_id": "p0115",
+    "source_paragraph_ids": [
+      "p0113",
+      "p0114",
+      "p0115"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b014-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b014",
+    "insert_after_paragraph_id": "p0116",
+    "source_paragraph_ids": [
+      "p0115",
+      "p0116"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b015-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b015",
+    "insert_after_paragraph_id": "p0117",
+    "source_paragraph_ids": [
+      "p0117"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p01-b016-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-006",
+    "dense_block_id": "c09p01-b016",
+    "insert_after_paragraph_id": "p0118",
+    "source_paragraph_ids": [
+      "p0117",
+      "p0118"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch09-sc02",
@@ -358,6 +1591,7 @@
     "chapter_id": "chapter-006",
     "insert_after_paragraph_id": "p0119",
     "source_paragraph_ids": [
+      "p0118",
       "p0119"
     ],
     "description": "Mrs. Patty asks a candy arithmetic question at the front door.",
@@ -379,7 +1613,120 @@
     "quadrant": 2,
     "generated_at": "20261117T064530483534Z",
     "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
-    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally.",
+    "dense_block_id": "c09p01-b017"
+  },
+  {
+    "id": "c09p02-b001-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b001",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b002-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b002",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b003-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b003",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b004-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b004",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b005-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b005",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b006-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b006",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b007-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b007",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b008-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b008",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch09-sc03",
@@ -407,7 +1754,120 @@
     "quadrant": 3,
     "generated_at": "20261117T064530483534Z",
     "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
-    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally.",
+    "dense_block_id": "c09p02-b009"
+  },
+  {
+    "id": "c09p02-b010-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b010",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b011-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b011",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b012-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b012",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b013-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b013",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b014-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b014",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b015-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b015",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b016-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b016",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c09p02-b017-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b017",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch09-sc04",
@@ -435,7 +1895,65 @@
     "quadrant": 4,
     "generated_at": "20261117T064530483534Z",
     "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
-    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally.",
+    "dense_block_id": "c09p02-b018"
+  },
+  {
+    "id": "c09p02-b019-scene",
+    "book_chapter": 9,
+    "chapter_id": "chapter-007",
+    "dense_block_id": "c09p02-b019",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b001-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b001",
+    "insert_after_paragraph_id": "p0121",
+    "source_paragraph_ids": [
+      "p0121"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b002-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b002",
+    "insert_after_paragraph_id": "p0122",
+    "source_paragraph_ids": [
+      "p0122"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b003-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b003",
+    "insert_after_paragraph_id": "p0124",
+    "source_paragraph_ids": [
+      "p0123",
+      "p0124"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch10-sc01",
@@ -443,6 +1961,7 @@
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0125",
     "source_paragraph_ids": [
+      "p0124",
       "p0125"
     ],
     "description": "An apparent headless mummy rises from the trunk holding its theatrical head.",
@@ -467,15 +1986,148 @@
     "quadrant": 1,
     "generated_at": "20261117T064609499266Z",
     "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
-    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained.",
+    "dense_block_id": "c10p01-b004"
+  },
+  {
+    "id": "c10p01-b005-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b005",
+    "insert_after_paragraph_id": "p0125",
+    "source_paragraph_ids": [
+      "p0125"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b006-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b006",
+    "insert_after_paragraph_id": "p0126",
+    "source_paragraph_ids": [
+      "p0126"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b007-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b007",
+    "insert_after_paragraph_id": "p0128",
+    "source_paragraph_ids": [
+      "p0126",
+      "p0127",
+      "p0128"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b008-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b008",
+    "insert_after_paragraph_id": "p0129",
+    "source_paragraph_ids": [
+      "p0129"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b009-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b009",
+    "insert_after_paragraph_id": "p0130",
+    "source_paragraph_ids": [
+      "p0129",
+      "p0130"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b010-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b010",
+    "insert_after_paragraph_id": "p0131",
+    "source_paragraph_ids": [
+      "p0130",
+      "p0131"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b011-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b011",
+    "insert_after_paragraph_id": "p0131",
+    "source_paragraph_ids": [
+      "p0131"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b012-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b012",
+    "insert_after_paragraph_id": "p0132",
+    "source_paragraph_ids": [
+      "p0131",
+      "p0132"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b013-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b013",
+    "insert_after_paragraph_id": "p0133",
+    "source_paragraph_ids": [
+      "p0133"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch10-sc02",
     "book_chapter": 10,
     "chapter_id": "chapter-008",
-    "insert_after_paragraph_id": "p0134",
+    "insert_after_paragraph_id": "p0135",
     "source_paragraph_ids": [
-      "p0134"
+      "p0134",
+      "p0135"
     ],
     "description": "Mr. Klutz emerges in his king costume with crown and sword.",
     "alt": "Mr. Klutz emerges in his king costume with crown and sword.",
@@ -497,7 +2149,37 @@
     "quadrant": 2,
     "generated_at": "20261117T064609499266Z",
     "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
-    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained.",
+    "dense_block_id": "c10p01-b014"
+  },
+  {
+    "id": "c10p01-b015-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b015",
+    "insert_after_paragraph_id": "p0136",
+    "source_paragraph_ids": [
+      "p0135",
+      "p0136"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p01-b016-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-008",
+    "dense_block_id": "c10p01-b016",
+    "insert_after_paragraph_id": "p0136",
+    "source_paragraph_ids": [
+      "p0136"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch10-sc03",
@@ -522,7 +2204,129 @@
     "quadrant": 3,
     "generated_at": "20261117T064609499266Z",
     "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
-    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained.",
+    "dense_block_id": "c10p02-b001"
+  },
+  {
+    "id": "c10p02-b002-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b002",
+    "insert_after_paragraph_id": "p0139",
+    "source_paragraph_ids": [
+      "p0138",
+      "p0139"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b003-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b003",
+    "insert_after_paragraph_id": "p0141",
+    "source_paragraph_ids": [
+      "p0139",
+      "p0140",
+      "p0141"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b004-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b004",
+    "insert_after_paragraph_id": "p0142",
+    "source_paragraph_ids": [
+      "p0141",
+      "p0142"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b005-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b005",
+    "insert_after_paragraph_id": "p0144",
+    "source_paragraph_ids": [
+      "p0143",
+      "p0144"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b006-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b006",
+    "insert_after_paragraph_id": "p0147",
+    "source_paragraph_ids": [
+      "p0145",
+      "p0146",
+      "p0147"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b007-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b007",
+    "insert_after_paragraph_id": "p0149",
+    "source_paragraph_ids": [
+      "p0148",
+      "p0149"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b008-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b008",
+    "insert_after_paragraph_id": "p0151",
+    "source_paragraph_ids": [
+      "p0150",
+      "p0151"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b009-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b009",
+    "insert_after_paragraph_id": "p0152",
+    "source_paragraph_ids": [
+      "p0152"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   },
   {
     "id": "ch10-sc04",
@@ -546,6 +2350,50 @@
     "quadrant": 4,
     "generated_at": "20261117T064609499266Z",
     "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
-    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained.",
+    "dense_block_id": "c10p02-b010"
+  },
+  {
+    "id": "c10p02-b011-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b011",
+    "insert_after_paragraph_id": "p0153",
+    "source_paragraph_ids": [
+      "p0153"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b012-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b012",
+    "insert_after_paragraph_id": "p0153",
+    "source_paragraph_ids": [
+      "p0153"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
+  },
+  {
+    "id": "c10p02-b013-scene",
+    "book_chapter": 10,
+    "chapter_id": "chapter-009",
+    "dense_block_id": "c10p02-b013",
+    "insert_after_paragraph_id": "p0154",
+    "source_paragraph_ids": [
+      "p0153",
+      "p0154"
+    ],
+    "description": "",
+    "alt": "",
+    "status": "planned",
+    "character_ids": []
   }
 ]
