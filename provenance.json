@@ -1,0 +1,17 @@
+{
+  "source_sha256": "2f949b339905aaf787952fd438d1a2474434763ddc7174f8b84f798b89d83172",
+  "book_title": "Mrs. Patty Is Batty!",
+  "selected_parts": [
+    "MWS13_C06_P01",
+    "MWS13_C06_P02",
+    "MWS13_C06_P03",
+    "MWS13_C07_P01",
+    "MWS13_C08_P01",
+    "MWS13_C09_P01",
+    "MWS13_C09_P02",
+    "MWS13_C10_P01",
+    "MWS13_C10_P02"
+  ],
+  "text_field": "parts[].original_text",
+  "canonical_character_count": 22
+}

@@ -1,0 +1,478 @@
+[
+  {
+    "name": "A.J.",
+    "character_id": "MWS13-AJ-01",
+    "canonical_appearance": "School-age boy with simple short hair, red T-shirt, blue trousers and sneakers; short hair and clothing colors are provisional.",
+    "never_change": "School-age boy with simple short hair, red T-shirt, blue trousers and sneakers; short hair and clothing colors are provisional.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C02_P01",
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C06_P01",
+      "MWS13_C06_P02",
+      "MWS13_C06_P03",
+      "MWS13_C07_P01",
+      "MWS13_C08_P01",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "From chapter 3 morning until the end of the trick-or-treat visit: penguin costume, space helmet, prop ax and fake blood on helmet. Chapter 10 final bedtime: no costume, ordinary covered bedtime clothes."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Mrs. Patty",
+    "character_id": "MWS13-PATTY-01",
+    "canonical_appearance": "Adult school secretary with a rounded face and practical violet outfit; source-required little skeleton earrings. Hair and clothing colors are provisional.",
+    "never_change": "Adult school secretary with a rounded face and practical violet outfit; source-required little skeleton earrings. Hair and clothing colors are provisional.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C03_P01",
+      "MWS13_C04_P01",
+      "MWS13_C05_P02",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "From chapter 3: witch costume, long bent false nose with large wart and broomstick when source specifies it. Skeleton earrings remain."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Ryan",
+    "character_id": "MWS13-RYAN-01",
+    "canonical_appearance": "School-age boy with short straight hair, green shirt, tan trousers and sneakers; visual choices are provisional.",
+    "never_change": "School-age boy with short straight hair, green shirt, tan trousers and sneakers; visual choices are provisional.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C02_P01",
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C06_P01",
+      "MWS13_C06_P02",
+      "MWS13_C06_P03",
+      "MWS13_C07_P01",
+      "MWS13_C08_P01",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "From chapter 3: hockey uniform and helmet with prop ax and fake blood."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Michael",
+    "character_id": "MWS13-MICHAEL-01",
+    "canonical_appearance": "School-age boy with short hair, orange shirt, dark trousers and untied shoelaces; hair and clothing colors are provisional.",
+    "never_change": "School-age boy with short hair, orange shirt, dark trousers and untied shoelaces; hair and clothing colors are provisional.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C06_P01",
+      "MWS13_C06_P02",
+      "MWS13_C06_P03",
+      "MWS13_C07_P01",
+      "MWS13_C08_P01",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "From chapter 3: peewee football uniform and helmet with prop ax and fake blood. Shoelaces remain untied where visible."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Andrea",
+    "character_id": "MWS13-ANDREA-01",
+    "canonical_appearance": "School-age girl with curly brown hair, purple top, dark trousers and sneakers; clothing colors are provisional.",
+    "never_change": "School-age girl with curly brown hair, purple top, dark trousers and sneakers; clothing colors are provisional.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C02_P01",
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C08_P01",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "From chapter 3: ballerina costume; keep curly brown hair."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Unidentified child voice",
+    "character_id": "MWS13-UNIDENTIFIED-01",
+    "canonical_appearance": "Offscreen voice only; do not invent a visible child identity.",
+    "never_change": "Offscreen voice only; do not invent a visible child identity.",
+    "part_ids": [
+      "MWS13_C01_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C08_P01",
+      "MWS13_C10_P02"
+    ],
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "offscreen"
+  },
+  {
+    "character_id": "MWS13-EMILY-01",
+    "name": "Emily",
+    "canonical_appearance": "School-age girl with simple shoulder-length hair and gentle expressions; teal everyday top and dark trousers are provisional.",
+    "never_change": "School-age girl with simple shoulder-length hair and gentle expressions; teal everyday top and dark trousers are provisional.",
+    "role": "Sensitive classmate; Halloween queen costume with crown and long train.",
+    "part_ids": [
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C08_P01",
+      "MWS13_C09_P01",
+      "MWS13_C09_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "From chapter 3: queen costume, crown and long robe train. Parade mishap: frame face, crown and fallen train, obscure body with intact fabric or foreground; no exposed underwear, no humiliating body close-up. Costume repaired again from Norman Road encounter onward."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-DAISY-01",
+    "name": "Miss Daisy",
+    "canonical_appearance": "Adult teacher, brown bob and mustard everyday cardigan as provisional design.",
+    "never_change": "Adult teacher, brown bob and mustard everyday cardigan as provisional design.",
+    "role": "Teacher in a giant brown bonbon costume with only head, arms and legs showing.",
+    "part_ids": [
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Giant brown bonbon costume during school scenes."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-KLUTZ-01",
+    "name": "Mr. Klutz",
+    "canonical_appearance": "Completely bald adult principal; readable theatrical expressions.",
+    "never_change": "Completely bald adult principal; readable theatrical expressions.",
+    "role": "Principal dressed as King Louis the Fourteenth: crown, gold cape and sword; never a separate historical king.",
+    "part_ids": [
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "King Louis the Fourteenth costume with crown, gold cape and sword; bald identity remains recognizable."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-NEIL-01",
+    "name": "Neil",
+    "canonical_appearance": "School-age boy in ordinary fully covering clothes; short hair and muted green everyday outfit are provisional.",
+    "never_change": "School-age boy in ordinary fully covering clothes; short hair and muted green everyday outfit are provisional.",
+    "role": "Classmate nicknamed the nude kid; the source explicitly says he wears clothes. Always depict fully clothed.",
+    "part_ids": [
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C10_P01"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-ANNETTE-01",
+    "name": "Annette",
+    "canonical_appearance": "School-age girl with a simple dark bob and yellow everyday top as provisional design.",
+    "never_change": "School-age girl with a simple dark bob and yellow everyday top as provisional design.",
+    "role": "Classmate; no invented dog accompanies her.",
+    "part_ids": [
+      "MWS13_C03_P01",
+      "MWS13_C10_P01"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-BILLY-01",
+    "name": "Billy",
+    "canonical_appearance": "School-age boy, brown hair and blue everyday top as provisional design.",
+    "never_change": "School-age boy, brown hair and blue everyday top as provisional design.",
+    "role": "Friend in a thick-brown-haired werewolf costume and hairy removable mask, with white briefs over the costume; one person, never a real creature.",
+    "part_ids": [
+      "MWS13_C06_P03",
+      "MWS13_C07_P01"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Underwearwolf costume: thick brown fur costume, hairy removable mask and white briefs over fur; no nudity."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-MARVIN-01",
+    "name": "Marvin / apparent headless mummy",
+    "canonical_appearance": "Adult-size bandage-wrapped Halloween mummy figure holding an apparent detached head like a football; playful theatrical illusion without wounds or gore.",
+    "never_change": "Adult-size bandage-wrapped Halloween mummy figure holding an apparent detached head like a football; playful theatrical illusion without wounds or gore.",
+    "role": "Source-present Halloween figure. Billy alleges a dead husband story; never assert the rumor as confirmed murder or show invented flashbacks.",
+    "part_ids": [
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Bandages and apparent head-in-hand theatrical illusion. Source-required sword is acquired only when the duel begins."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-STUDENTS-01",
+    "name": "Unnamed costumed students",
+    "canonical_appearance": "Background school-age students in the source-listed Halloween costumes; individual names are not invented.",
+    "never_change": "Background school-age students in the source-listed Halloween costumes; individual names are not invented.",
+    "role": "Crowd and collective speech; named children retain their own IDs.",
+    "part_ids": [
+      "MWS13_C03_P01",
+      "MWS13_C03_P02",
+      "MWS13_C04_P01",
+      "MWS13_C04_P02",
+      "MWS13_C05_P01",
+      "MWS13_C05_P02",
+      "MWS13_C06_P01",
+      "MWS13_C06_P02",
+      "MWS13_C07_P01",
+      "MWS13_C09_P01",
+      "MWS13_C10_P01",
+      "MWS13_C10_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-COONEY-01",
+    "name": "Mrs. Cooney",
+    "canonical_appearance": "Adult school nurse with tied-back hair and pale-blue practical clothes as provisional design.",
+    "never_change": "Adult school nurse with tied-back hair and pale-blue practical clothes as provisional design.",
+    "role": "Nurse at her own house giving apples, carrots and nuts.",
+    "part_ids": [
+      "MWS13_C06_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-LADY-01",
+    "name": "First-house lady",
+    "canonical_appearance": "Adult woman with simple everyday clothing and a candy bucket; colors and hair are provisional.",
+    "never_change": "Adult woman with simple everyday clothing and a candy bucket; colors and hair are provisional.",
+    "role": "Woman answering the first house on the boys' map.",
+    "part_ids": [
+      "MWS13_C06_P01",
+      "MWS13_C06_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-QUARTER-MAN-01",
+    "name": "Man giving quarters",
+    "canonical_appearance": "Adult man in simple everyday clothing, source-required quarters; other design details provisional.",
+    "never_change": "Adult man in simple everyday clothing, source-required quarters; other design details provisional.",
+    "role": "Resident who has run out of candy.",
+    "part_ids": [
+      "MWS13_C06_P03"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-AJ-MOM-01",
+    "name": "A.J.'s mother",
+    "canonical_appearance": "Adult mother with simple everyday clothes and a camera at the playground parade; design provisional.",
+    "never_change": "Adult mother with simple everyday clothes and a camera at the playground parade; design provisional.",
+    "role": "Parent watching the school parade.",
+    "part_ids": [
+      "MWS13_C04_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-HANNAH-01",
+    "name": "Ms. Hannah",
+    "canonical_appearance": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "never_change": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "role": "Art teacher dressed as Picasso",
+    "part_ids": [
+      "MWS13_C04_P01",
+      "MWS13_C04_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-SMALL-01",
+    "name": "Miss Small",
+    "canonical_appearance": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "never_change": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "role": "Gym teacher dressed as Babe Ruth",
+    "part_ids": [
+      "MWS13_C04_P01",
+      "MWS13_C04_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-KORMEL-01",
+    "name": "Mrs. Kormel",
+    "canonical_appearance": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "never_change": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "role": "Bus driver dressed as Jeff Gordon",
+    "part_ids": [
+      "MWS13_C04_P01",
+      "MWS13_C04_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "character_id": "MWS13-ROOPY-01",
+    "name": "Mrs. Roopy",
+    "canonical_appearance": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "never_change": "Adult school staff member, simple stable face and proportions; costume follows the source role only. Do not substitute a separate famous person.",
+    "role": "Librarian dressed as an unnamed children's book author",
+    "part_ids": [
+      "MWS13_C04_P01",
+      "MWS13_C04_P02"
+    ],
+    "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
+    "states": [
+      "Canonical design unless source explicitly changes it."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Michael's mother",
+    "character_id": "MWS13-MICHAEL-MOM-01",
+    "canonical_appearance": "Adult mother; source specifies no face, hair or clothing. Keep any chosen design stable.",
+    "role": "Gives each boy a pillowcase at Michael’s home at the beginning of Chapter 6.",
+    "part_ids": [
+      "MWS13_C06_P01"
+    ],
+    "states": [
+      "Ordinary home clothes; hands out three pillowcases."
+    ],
+    "visibility": "present"
+  },
+  {
+    "name": "Gate voice / computer voice",
+    "character_id": "MWS13-GATE-VOICE-01",
+    "canonical_appearance": "Voice only. Do not invent a visible speaker.",
+    "role": "Invites the children through the gate; Ryan calls it a computer voice.",
+    "part_ids": [
+      "MWS13_C08_P01",
+      "MWS13_C09_P01"
+    ],
+    "states": [
+      "Offscreen audio source only."
+    ],
+    "visibility": "offscreen"
+  },
+  {
+    "name": "Miss Lazar",
+    "character_id": "MWS13-LAZAR-MENTION-01",
+    "canonical_appearance": "No visual appearance specified.",
+    "role": "Mentioned in a school announcement in Chapter 1; not present in that scene.",
+    "part_ids": [
+      "MWS13_C01_P01"
+    ],
+    "states": [
+      "Mention only; do not add a visible character."
+    ],
+    "visibility": "mention"
+  },
+  {
+    "name": "Halloween costume groups & decorations",
+    "character_id": "MWS13-COSTUME-GROUPS-01",
+    "canonical_appearance": "Costumed people remain human. In Chapter 6: giraffes, space-villain costumes, two-headed astronauts, princesses, cowboys, ghosts, exactly four children dressed as giant bananas, and teenagers in shabby costumes.",
+    "role": "Background crowd and theatrical props. At Patty’s house: dummy, lit-up cat decorations, hanging spiders, window foot and tombstones are decorations, not new living characters.",
+    "part_ids": [
+      "MWS13_C06_P01",
+      "MWS13_C08_P01"
+    ],
+    "states": [
+      "Do not turn imaginary bears, lions, elephants, ghosts or alleged murder flashbacks into factual events."
+    ],
+    "visibility": "group"
+  }
+]
