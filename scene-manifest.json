@@ -1907,10 +1907,20 @@
     "source_paragraph_ids": [
       "p0093"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Smoke was coming out of a big pot. Spooky music was coming out of speakers. There was a dummy sitting on a chair on the front porch.",
+    "alt": "Smoke was coming out of a big pot. Spooky music was coming out of speakers. There was a dummy sitting on a chair on the front porch.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b015-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c08p01-b016-scene",
@@ -1922,10 +1932,20 @@
       "p0093",
       "p0094"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "(I hope it was a dummy, anyway. If that thing moved, I decided, I was going to make a run for it.) \"This place is creepy,\" said Emily.",
+    "alt": "(I hope it was a dummy, anyway. If that thing moved, I decided, I was going to make a run for it.) \"This place is creepy,\" said Emily.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b016-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "ch08-sc04",
@@ -1967,10 +1987,20 @@
       "p0096",
       "p0097"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Nobody even touched it or anything. \"Come inside. . . ,\" said a weird man's voice. \"If you dare. . . .\"",
+    "alt": "Nobody even touched it or anything. \"Come inside. . . ,\" said a weird man's voice. \"If you dare. . . .\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b018-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b001-scene",
@@ -1982,10 +2012,20 @@
       "p0098",
       "p0099"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Who said that?\" Michael asked after we heard the weird man's voice. \"Headless Marvin?\" \"It wasn't a person,\" Ryan said.",
+    "alt": "\"Who said that?\" Michael asked after we heard the weird man's voice. \"Headless Marvin?\" \"It wasn't a person,\" Ryan said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b001-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b002-scene",
@@ -1997,10 +2037,20 @@
       "p0099",
       "p0100"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"It was one of those computer voices.\" \"Let's get out of here,\" said Emily, \"before it's too late!\" She sounded like she was about to cry, a",
+    "alt": "\"It was one of those computer voices.\" \"Let's get out of here,\" said Emily, \"before it's too late!\" She sounded like she was about to cry, a",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b002-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b003-scene",
@@ -2013,10 +2063,20 @@
       "p0101",
       "p0102"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "I wanted to cry too, but I didn't want to look like a baby. \"I—I'm not scared,\" I said. \"M-me neither,\" said Michael.",
+    "alt": "I wanted to cry too, but I didn't want to look like a baby. \"I—I'm not scared,\" I said. \"M-me neither,\" said Michael.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b003-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b004-scene",
@@ -2027,10 +2087,20 @@
     "source_paragraph_ids": [
       "p0103"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "We went through the gate and climbed the front steps. You could hardly see anything. Even though I was walking on my tiptoes, the stairs squ",
+    "alt": "We went through the gate and climbed the front steps. You could hardly see anything. Even though I was walking on my tiptoes, the stairs squ",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b004-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b005-scene",
@@ -2041,10 +2111,20 @@
     "source_paragraph_ids": [
       "p0104"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "I was trying to find the doorbell when I walked into some spiderwebs. They were all over my face. Yuck!",
+    "alt": "I was trying to find the doorbell when I walked into some spiderwebs. They were all over my face. Yuck!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b005-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b006-scene",
@@ -2055,10 +2135,20 @@
     "source_paragraph_ids": [
       "p0104"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Then I put my foot in something. It was stuck! I couldn't get it out!",
+    "alt": "Then I put my foot in something. It was stuck! I couldn't get it out!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b006-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "ch09-sc01",
@@ -2100,10 +2190,20 @@
       "p0107",
       "p0108"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Any time somebody tells you that you did something dumb, always act like you did it on purpose. That's the first rule of being a kid. Ryan r",
+    "alt": "Any time somebody tells you that you did something dumb, always act like you did it on purpose. That's the first rule of being a kid. Ryan r",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b008-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b009-scene",
@@ -2114,10 +2214,20 @@
     "source_paragraph_ids": [
       "p0108"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It played funeral music. I was hoping that nobody would be home, but soon we heard footsteps and the front door slowly creaked open. I held ",
+    "alt": "It played funeral music. I was hoping that nobody would be home, but soon we heard footsteps and the front door slowly creaked open. I held ",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b009-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b010-scene",
@@ -2128,10 +2238,20 @@
     "source_paragraph_ids": [
       "p0109"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It was Mrs. Patty. She was still dressed in her witch costume. At least she didn't have an ax.",
+    "alt": "It was Mrs. Patty. She was still dressed in her witch costume. At least she didn't have an ax.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b010-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b011-scene",
@@ -2144,10 +2264,20 @@
       "p0110",
       "p0111"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Aha,\" she said in a scary voice, \"my last group of trick-or-treaters is finally here.\" \"I love your Halloween decorations, Mrs. Patty,\" sai",
+    "alt": "\"Aha,\" she said in a scary voice, \"my last group of trick-or-treaters is finally here.\" \"I love your Halloween decorations, Mrs. Patty,\" sai",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b011-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 13,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b012-scene",
@@ -2160,10 +2290,20 @@
       "p0112",
       "p0113"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"My house always looks like this.\" I was really sweating now. \"We better go,\" I said.",
+    "alt": "\"My house always looks like this.\" I was really sweating now. \"We better go,\" I said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b012-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 14,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b013-scene",
@@ -2176,10 +2316,20 @@
       "p0114",
       "p0115"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"It's way past our bedtimes.\" \"Isn't there something you want to say first?\" asked Mrs. Patty. \"Yeah,\" I said, \"how does that wart stay on y",
+    "alt": "\"It's way past our bedtimes.\" \"Isn't there something you want to say first?\" asked Mrs. Patty. \"Yeah,\" I said, \"how does that wart stay on y",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b013-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 15,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b014-scene",
@@ -2191,10 +2341,20 @@
       "p0115",
       "p0116"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"You're supposed to say 'trick or treat,'\" said Mrs. Patty. \"Oh,\" we all said, \"trick or treat.\" \"Before I give you candy,\" she said, \"you m",
+    "alt": "\"You're supposed to say 'trick or treat,'\" said Mrs. Patty. \"Oh,\" we all said, \"trick or treat.\" \"Before I give you candy,\" she said, \"you m",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p01-b014-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-005",
+    "grid_cell_row_major": 16,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8edc88fe01edce1bf3c3f907e194b9d05380242b8b942ddf5b00535d90c03f57",
+    "review_note": "Inspected sixteen cells: porch dummy and cauldron are props, no visible voice speaker, five children approach same wooden mansion, AJ web and stuck-foot reactions, Ryan rings doorbell, Patty appears only after door opens with matching violet witch outfit and skeleton earrings.",
+    "generated_at": "20261117T073824Z"
   },
   {
     "id": "c09p01-b015-scene",
