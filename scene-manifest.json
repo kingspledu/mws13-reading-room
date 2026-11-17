@@ -459,7 +459,15 @@
       "MWS13-STUDENTS-01"
     ],
     "state": "Basement party, then bedtime",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch10-sc01.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch10-sc01-ch10-sc02-ch10-sc03-ch10-sc04",
+    "quadrant": 1,
+    "generated_at": "20261117T064609499266Z",
+    "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
   },
   {
     "id": "ch10-sc02",
@@ -481,7 +489,15 @@
       "MWS13-MARVIN-01"
     ],
     "state": "Basement party, then bedtime",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch10-sc02.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch10-sc01-ch10-sc02-ch10-sc03-ch10-sc04",
+    "quadrant": 2,
+    "generated_at": "20261117T064609499266Z",
+    "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
   },
   {
     "id": "ch10-sc03",
@@ -498,7 +514,15 @@
       "MWS13-MARVIN-01"
     ],
     "state": "Basement party, then bedtime",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch10-sc03.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch10-sc01-ch10-sc02-ch10-sc03-ch10-sc04",
+    "quadrant": 3,
+    "generated_at": "20261117T064609499266Z",
+    "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
   },
   {
     "id": "ch10-sc04",
@@ -514,6 +538,14 @@
       "MWS13-AJ-01"
     ],
     "state": "Basement party, then bedtime",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch10-sc04.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch10-sc01-ch10-sc02-ch10-sc03-ch10-sc04",
+    "quadrant": 4,
+    "generated_at": "20261117T064609499266Z",
+    "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
+    "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
   }
 ]

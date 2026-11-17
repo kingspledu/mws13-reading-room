@@ -58,5 +58,20 @@
       "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
       "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
     }
+  ],
+  "ch10-sc01-ch10-sc02-ch10-sc03-ch10-sc04": [
+    {
+      "scene_ids": [
+        "ch10-sc01",
+        "ch10-sc02",
+        "ch10-sc03",
+        "ch10-sc04"
+      ],
+      "grid": "2x2",
+      "prompt": "Edit this four-scene illustration grid only for CANDY CONTAINER CONTINUITY. Preserve EXACT four panels, layout, all faces expressions costumes helmets props anatomy room scenery and all actions. TOP LEFT and TOP RIGHT: Three boys (penguin AJ, green hockey Ryan, orange football Michael) each must hold a plain soft open cream PILLOWCASE: no drawstring cords, no handles, no pumpkin designs or printed patterns. Girls Andrea in lavender ballet and Emily teal queen each have a small PURPLE tote with orange Halloween motif and purple handles, matching earlier chapter8, NOT cream bags. Keep their exact grip and hands plausible; change containers only. BOTTOM LEFT sword duel is already correct: do not change ANYTHING in this panel. BOTTOM RIGHT: replace pumpkin-print drawstring candy bag by bed with a plain cream PILLOWCASE full of candy, no drawstrings/cords/handles or prints. Keep AJ red pajamas, face chocolate, bedding, wrappers and room exactly unchanged. Preserve mummy has exactly one detached theatrical head held in left hand and sword in right hand; no extra heads, arms, fingers. No new text, no new characters, no other changes.\n",
+      "generated_at": "20261117T064609499266Z",
+      "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
+      "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
+    }
   ]
 }
