@@ -882,10 +882,20 @@
     "source_paragraph_ids": [
       "p0042"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "But my mom tells me I can accomplish anything if I put my mind to it. \"I'd better eat some more of this candy,\" I said, reaching into my pil",
+    "alt": "But my mom tells me I can accomplish anything if I put my mind to it. \"I'd better eat some more of this candy,\" I said, reaching into my pil",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p03-b009-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c06p03-b010-scene",
@@ -897,10 +907,20 @@
       "p0043",
       "p0044"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"You'll still be carrying it,\" Michael said. \"It will just be in your stomach.\" \"But it weighs less in your—\"",
+    "alt": "\"You'll still be carrying it,\" Michael said. \"It will just be in your stomach.\" \"But it weighs less in your—\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p03-b010-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "ch06-sc04",
@@ -941,10 +961,20 @@
       "p0047",
       "p0048"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Boo!\" the horrible creature yelled at us. He was waving his hairy arms around in the air. \"Ahhhhhhhhh!\" we screamed.",
+    "alt": "\"Boo!\" the horrible creature yelled at us. He was waving his hairy arms around in the air. \"Ahhhhhhhhh!\" we screamed.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b001-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "ch07-sc01",
@@ -985,10 +1015,20 @@
       "p0049",
       "p0050"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Just don't kill us!\" It was a hideous creature with thick brown hair all over its body. It even had a hairy mask on its face.",
+    "alt": "Just don't kill us!\" It was a hideous creature with thick brown hair all over its body. It even had a hairy mask on its face.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b003-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b004-scene",
@@ -1000,10 +1040,20 @@
       "p0050",
       "p0051"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The only thing the creature was wearing over all that hair was a pair of underwear. Tighty whities. I thought I was gonna die.",
+    "alt": "The only thing the creature was wearing over all that hair was a pair of underwear. Tighty whities. I thought I was gonna die.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b004-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b005-scene",
@@ -1015,10 +1065,20 @@
       "p0052",
       "p0053"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Are you . . . the Halloween Monster?\" I asked, trembling. \"No, dumbhead,\" the thing said as it took off its mask. \"It's me!\"",
+    "alt": "\"Are you . . . the Halloween Monster?\" I asked, trembling. \"No, dumbhead,\" the thing said as it took off its mask. \"It's me!\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b005-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "ch07-sc02",
@@ -1060,10 +1120,20 @@
       "p0057",
       "p0058"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Take a guess,\" Billy said. \"A vampire?\" guessed Michael. \"Nope.\"",
+    "alt": "\"Take a guess,\" Billy said. \"A vampire?\" guessed Michael. \"Nope.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b007-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b008-scene",
@@ -1075,10 +1145,20 @@
       "p0059",
       "p0060"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"A werewolf?\" guessed Ryan. \"Nope,\" said Billy. \"I'm the underwearwolf!",
+    "alt": "\"A werewolf?\" guessed Ryan. \"Nope,\" said Billy. \"I'm the underwearwolf!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b008-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b009-scene",
@@ -1090,10 +1170,20 @@
       "p0060",
       "p0061"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Get it? A werewolf in his underwear is an underwearwolf!\" Well, the only thing funnier than getting someone to say \"underwear,\" or seeing so",
+    "alt": "Get it? A werewolf in his underwear is an underwearwolf!\" Well, the only thing funnier than getting someone to say \"underwear,\" or seeing so",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b009-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b010-scene",
@@ -1105,10 +1195,20 @@
       "p0062",
       "p0063"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Billy is weird. \"Where are you guys heading?\" he asked us. \"I'm finished trick-or-treating.\"",
+    "alt": "Billy is weird. \"Where are you guys heading?\" he asked us. \"I'm finished trick-or-treating.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b010-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "ch07-sc03",
@@ -1150,10 +1250,20 @@
       "p0066",
       "p0067"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"That house is haunted.\" \"Haunted?\" we all asked. A chill went down my spine.",
+    "alt": "\"That house is haunted.\" \"Haunted?\" we all asked. A chill went down my spine.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b012-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b013-scene",
@@ -1165,10 +1275,20 @@
       "p0067",
       "p0068"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "I've been to haunted houses in amusement parks, but I've never been to a real haunted house. \"Oh yeah,\" said Billy. \"That lady is a witch.",
+    "alt": "I've been to haunted houses in amusement parks, but I've never been to a real haunted house. \"Oh yeah,\" said Billy. \"That lady is a witch.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b013-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b014-scene",
@@ -1179,10 +1299,20 @@
     "source_paragraph_ids": [
       "p0068"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "She poisoned her husband, Marvin, and chopped his head off. He came back as a ghost, and he's been driving her insane ever since. She still ",
+    "alt": "She poisoned her husband, Marvin, and chopped his head off. He came back as a ghost, and he's been driving her insane ever since. She still ",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b014-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 13,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b015-scene",
@@ -1194,10 +1324,20 @@
       "p0069",
       "p0070"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"How do you know all that?\" I asked. \"I know everything,\" Billy claimed. \"I'm in the gifted and talented program at my school.\"",
+    "alt": "\"How do you know all that?\" I asked. \"I know everything,\" Billy claimed. \"I'm in the gifted and talented program at my school.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b015-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 14,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b016-scene",
@@ -1209,10 +1349,20 @@
       "p0071",
       "p0072"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Wait a minute,\" Michael said. \"Why did she chop his head off if he was already poisoned?\" \"For the fun of it,\" Billy said.",
+    "alt": "\"Wait a minute,\" Michael said. \"Why did she chop his head off if he was already poisoned?\" \"For the fun of it,\" Billy said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b016-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 15,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b017-scene",
@@ -1224,10 +1374,20 @@
       "p0072",
       "p0073"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"I told you she's a witch. I'm warning you, stay away from that house.\" It was hard for me to imagine Mrs. Patty poisoning her husband or ch",
+    "alt": "\"I told you she's a witch. I'm warning you, stay away from that house.\" It was hard for me to imagine Mrs. Patty poisoning her husband or ch",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b017-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-003",
+    "grid_cell_row_major": 16,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8e32abd4a8575af7f107eb0494a33cad73ef0d663654471c767d80b00d892015",
+    "review_note": "Inspected sixteen row-major scenes: AJ eats candy, three boys converse, furry costume is fully covering with briefs over fur, Billy lifts mask then appears unmasked, no real ghost or violent flashbacks. Conversation remains by neighborhood wall; distant house treated as street background.",
+    "generated_at": "20261117T072517Z"
   },
   {
     "id": "c07p01-b018-scene",
