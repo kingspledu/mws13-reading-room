@@ -15,7 +15,15 @@
       "MWS13-MICHAEL-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch06-sc01.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch06-sc01-ch06-sc02-ch06-sc03-ch06-sc04",
+    "quadrant": 1,
+    "generated_at": "20261117T063846922903Z",
+    "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
   },
   {
     "id": "ch06-sc02",
@@ -34,7 +42,15 @@
       "MWS13-STUDENTS-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch06-sc02.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch06-sc01-ch06-sc02-ch06-sc03-ch06-sc04",
+    "quadrant": 2,
+    "generated_at": "20261117T063846922903Z",
+    "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
   },
   {
     "id": "ch06-sc03",
@@ -53,7 +69,15 @@
       "MWS13-COONEY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch06-sc03.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch06-sc01-ch06-sc02-ch06-sc03-ch06-sc04",
+    "quadrant": 3,
+    "generated_at": "20261117T063846922903Z",
+    "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
   },
   {
     "id": "ch06-sc04",
@@ -72,7 +96,15 @@
       "MWS13-BILLY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch06-sc04.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch06-sc01-ch06-sc02-ch06-sc03-ch06-sc04",
+    "quadrant": 4,
+    "generated_at": "20261117T063846922903Z",
+    "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
+    "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
   },
   {
     "id": "ch07-sc01",

@@ -1,1 +1,17 @@
-{}
+{
+  "ch06-sc01-ch06-sc02-ch06-sc03-ch06-sc04": [
+    {
+      "scene_ids": [
+        "ch06-sc01",
+        "ch06-sc02",
+        "ch06-sc03",
+        "ch06-sc04"
+      ],
+      "grid": "2x2",
+      "prompt": "Use case: illustration-story. ONE SQUARE image EXACT 2x2 grid of FOUR equally sized square standalone scenes, thin straight white gutters precisely halfway horizontally and vertically. Four DIFFERENT chronological Chapter 6 story moments. No text, captions, speech bubbles, lettering, logos or watermark. Reference images role ONLY character identity and clothes, NOT reference layout or background. Warm pastel rounded polished Korean webtoon Halloween school comedy, pumpkin orange violet accents. LOCKS: AJ is penguin child with transparent space helmet and attached TOY axe, Ryan green hockey outfit and helmet toy axe, Michael orange American football pads helmet toy axe, all toy theatrical tiny red paint no injuries. Children hold cream pillowcases when appropriate. Match reference faces. TOP LEFT: at Michael's front yard early evening, exactly the three boys examine the big map Michael holds, empty pillowcases in their hands, eager excited expressions. TOP RIGHT: wide neighborhood street candy quest at dusk, three boys foreground walking, in background EXACTLY FOUR other children in yellow banana costumes together as a bunch, two other children sharing a two-headed astronaut costume, no extra banana costumes. BOTTOM LEFT: Mrs Cooney at her own open doorway, blue practical clothes tied-back hair, offering a bowl with apples carrots and bagged nuts, exactly the three boys reacting disappointed, their pillowcases partly full. BOTTOM RIGHT: at dusk by a low stone wall near a graveyard, Billy in his thick brown furry werewolf costume and removable furry wolf MASK with white briefs OVER the fur jumps out in front of the three startled boys; playful theatrical only, no real monster. Billy mask covers face here, source reveal comes in next chapter. Keep each scene self-contained, humans proportioned clearly, no extra arms.\n",
+      "generated_at": "20261117T063846922903Z",
+      "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
+      "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
+    }
+  ]
+}
