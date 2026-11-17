@@ -28,5 +28,20 @@
       "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
       "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
     }
+  ],
+  "ch08-sc01-ch08-sc02-ch08-sc03-ch08-sc04": [
+    {
+      "scene_ids": [
+        "ch08-sc01",
+        "ch08-sc02",
+        "ch08-sc03",
+        "ch08-sc04"
+      ],
+      "grid": "2x2",
+      "prompt": "Illustration-story ONE SQUARE EXACT 2x2 grid FOUR equal square standalone scenes, white gutters at 50% width height, no lettering captions text speech balloons logos watermark. Reference image for CHARACTER IDENTITY AND CLOTHES ONLY; do not replicate sheet or labels. Warm pastel rounded polished Korean webtoon Halloween comedy. AJ black white penguin costume transparent SPACE HELMET toy axe on helmet; Ryan GREEN hockey outfit and helmet toy axe; Michael ORANGE American football uniform helmet toy axe. All three hold now-heavy cream pillowcases; no wounds, small theatrical paint only. Andrea curly brown hair lavender ballerina tutu tights; Emily chestnut shoulder length hair teal queen gown crown and INTACT long train. TOP LEFT: now-dark neighborhood sidewalk, exactly three boys walking together, AJ anxious, Michael reassuring, Ryan conversational, no monsters. TOP RIGHT: at Norman Road corner, three boys meet Andrea and Emily, exactly five children together; AJ reluctant expression and girls carrying candy bags. BOTTOM LEFT: wide exterior old mansion at night, iron gate, dead trees beside driveway, exactly five children outside peeking through bars; lawn has prop tombstones jack-o-lanterns hanging spiders and fake lit-eye cat decorations, dummy sitting on porch chair, smoke coming from a large pot, clearly decorations not living creatures; mansion not castle. BOTTOM RIGHT: same iron gate swings open untouched, five children startle and look toward opening, NO visible speaking man or ghost; only five children. Three boys retain costume helmets and toy axes, girls same outfits, exact counts and clear faces. Do not show Mrs Patty yet.\n",
+      "generated_at": "20261117T064033494232Z",
+      "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
+      "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
+    }
   ]
 }

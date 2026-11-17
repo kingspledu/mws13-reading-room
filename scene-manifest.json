@@ -230,7 +230,15 @@
       "MWS13-MICHAEL-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch08-sc01.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch08-sc01-ch08-sc02-ch08-sc03-ch08-sc04",
+    "quadrant": 1,
+    "generated_at": "20261117T064033494232Z",
+    "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
   },
   {
     "id": "ch08-sc02",
@@ -250,7 +258,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch08-sc02.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch08-sc01-ch08-sc02-ch08-sc03-ch08-sc04",
+    "quadrant": 2,
+    "generated_at": "20261117T064033494232Z",
+    "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
   },
   {
     "id": "ch08-sc03",
@@ -270,7 +286,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch08-sc03.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch08-sc01-ch08-sc02-ch08-sc03-ch08-sc04",
+    "quadrant": 3,
+    "generated_at": "20261117T064033494232Z",
+    "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
   },
   {
     "id": "ch08-sc04",
@@ -290,7 +314,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch08-sc04.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch08-sc01-ch08-sc02-ch08-sc03-ch08-sc04",
+    "quadrant": 4,
+    "generated_at": "20261117T064033494232Z",
+    "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
+    "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
   },
   {
     "id": "ch09-sc01",
