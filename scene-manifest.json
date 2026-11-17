@@ -8,10 +8,20 @@
     "source_paragraph_ids": [
       "p0001"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael’s mother gives the three boys pillowcases.",
+    "alt": "Michael’s mother gives the three boys pillowcases.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b001-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b002-scene",
@@ -23,10 +33,20 @@
       "p0002",
       "p0003"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Ryan urges the boys to start their candy quest.",
+    "alt": "Ryan urges the boys to start their candy quest.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b002-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "ch06-sc01",
@@ -65,10 +85,20 @@
     "source_paragraph_ids": [
       "p0005"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "A.J. is impressed by Michael’s big words.",
+    "alt": "A.J. is impressed by Michael’s big words.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b004-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b005-scene",
@@ -79,10 +109,20 @@
     "source_paragraph_ids": [
       "p0006"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The boys study Michael’s carefully planned route.",
+    "alt": "The boys study Michael’s carefully planned route.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b005-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b006-scene",
@@ -93,10 +133,20 @@
     "source_paragraph_ids": [
       "p0007"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael saves Mrs. Patty’s house for last.",
+    "alt": "Michael saves Mrs. Patty’s house for last.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b006-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b007-scene",
@@ -109,10 +159,20 @@
       "p0008",
       "p0009"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "A.J. asks about the Halloween Monster as they set off.",
+    "alt": "A.J. asks about the Halloween Monster as they set off.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b007-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b008-scene",
@@ -124,10 +184,20 @@
       "p0010",
       "p0011"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael dismisses the story while Ryan urges caution.",
+    "alt": "Michael dismisses the story while Ryan urges caution.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b008-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b009-scene",
@@ -138,10 +208,20 @@
     "source_paragraph_ids": [
       "p0012"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The boys pass children in giraffe costumes.",
+    "alt": "The boys pass children in giraffe costumes.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b009-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b010-scene",
@@ -152,10 +232,20 @@
     "source_paragraph_ids": [
       "p0012"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Children wear space-villain, astronaut and princess costumes.",
+    "alt": "Children wear space-villain, astronaut and princess costumes.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b010-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "ch06-sc02",
@@ -195,10 +285,20 @@
       "p0012",
       "p0013"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The boys notice teenagers in shabby costumes.",
+    "alt": "The boys notice teenagers in shabby costumes.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b012-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b013-scene",
@@ -210,10 +310,20 @@
       "p0013",
       "p0014"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The first-house lady opens her door to the boys.",
+    "alt": "The first-house lady opens her door to the boys.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b013-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p01-b014-scene",
@@ -225,10 +335,20 @@
       "p0015",
       "p0016"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael describes their three Halloween costumes.",
+    "alt": "Michael describes their three Halloween costumes.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p01-b014-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p02-b001-scene",
@@ -241,10 +361,20 @@
       "p0018",
       "p0019"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "A.J. takes a candy from the lady’s bucket.",
+    "alt": "A.J. takes a candy from the lady’s bucket.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p02-b001-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 13,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p02-b002-scene",
@@ -256,10 +386,20 @@
       "p0020",
       "p0021"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The lady pulls back the bucket when A.J. asks for more.",
+    "alt": "The lady pulls back the bucket when A.J. asks for more.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p02-b002-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 14,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p02-b003-scene",
@@ -270,10 +410,20 @@
     "source_paragraph_ids": [
       "p0022"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The boys collect candy at more houses.",
+    "alt": "The boys collect candy at more houses.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p02-b003-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 15,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p02-b004-scene",
@@ -284,10 +434,20 @@
     "source_paragraph_ids": [
       "p0023"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "The boys eat candy during their walk.",
+    "alt": "The boys eat candy during their walk.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c06p02-b004-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-001",
+    "grid_cell_row_major": 16,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "8a582698d6ca31756e2e27c1dc2e5d3822ce62b3c66c9d2feadd05baae1552bd",
+    "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+    "generated_at": "20261117T071503Z"
   },
   {
     "id": "c06p02-b005-scene",

@@ -73,5 +73,36 @@
       "grid_sha256": "8989072e2fe1a7dec2364b5baaacc2a46777e2d3a049e433ba40b3eb4fb4e9b6",
       "review_note": "Inspected all scenes: one theatrical detached mummy head, sword acquired only in duel, both adults have two arms, Neil clothed, plain boys pillowcases and girls purple totes, AJ returns home in red sleepwear without helmet or mansion props. Original v1 and initial prompt retained."
     }
+  ],
+  "dense-001": [
+    {
+      "scene_ids": [
+        "c06p01-b001-scene",
+        "c06p01-b002-scene",
+        "c06p01-b004-scene",
+        "c06p01-b005-scene",
+        "c06p01-b006-scene",
+        "c06p01-b007-scene",
+        "c06p01-b008-scene",
+        "c06p01-b009-scene",
+        "c06p01-b010-scene",
+        "c06p01-b012-scene",
+        "c06p01-b013-scene",
+        "c06p01-b014-scene",
+        "c06p02-b001-scene",
+        "c06p02-b002-scene",
+        "c06p02-b003-scene",
+        "c06p02-b004-scene"
+      ],
+      "grid": "4x4",
+      "prompt": "Use case illustration-story. Generate ONE extremely detailed SQUARE image at the highest native resolution available, ideally 4096x4096 or larger if supported, with an EXACT 4x4 GRID of SIXTEEN equal SQUARE standalone illustrations. Straight thin white gutters at precisely 25%,50%,75% both axes. Row-major order. No numbers, lettering, dialogue bubbles, captions, watermark. Crisp clean fine linework high detail at tile scale. Warm pastel rounded Korean webtoon Halloween school comedy. References ONLY faces/proportions/costumes, NOT sheet layout. Every cell a DIFFERENT story beat. Child locks: AJ black-white penguin costume orange feet transparent spherical SPACE HELMET toy ax attached, Ryan GREEN hockey outfit helmet toy ax, Michael ORANGE American football outfit helmet toy ax. Toy ax has tiny theatrical red paint not real injury. All 3 boys carry plain CREAM PILLOWCASES, no handles cords or prints. No girls or Billy in these scenes. First-house lady coral cardigan short wavy dark hair blue pants candy bucket. Michael mother short chestnut hair peach sweater navy pants. No real monsters.\nROW1 C1: at Michael's front door mother hands THREE empty cream pillowcases to the three excited costumed boys, sunset. C2: Ryan shakes his empty pillowcase eagerly and AJ agrees while Michael stands beside them, outside same home. C3: AJ impressed open-mouthed by Michael's clever big words, close view AJ and Michael, folded map edge. C4: overhead of three boys looking at Michael's route map, all THREE distinct helmets visible, map has simple shapes not letters.\nROW2 C1: Michael points at far end of folded route map explaining last house while AJ Ryan listen outside home. C2: the three set off on sidewalk, AJ looks thoughtful and asks friends about monster, still sunset. C3: Michael dismisses worry with one hand wave, Ryan cautious, AJ listens, three boys walking. C4: wide neighborhood costume procession, three main boys foreground and children in giraffe costumes background, giraffe suits clearly costumes.\nROW3 C1: two children share one two-headed astronaut costume, other children wear black space-villain and princess costumes, three main boys walking foreground, not real astronauts. C2: main boys look at teenagers in shabby ordinary clothing costumes walking on sidewalk; playful comedy not misery. C3: three boys at first-house porch, coral-cardigan lady opens door, each empty pillowcase in hand. C4: same lady smiles asking about costumes; Michael points proudly toward his football uniform, AJ penguin helmet and Ryan green hockey flank him.\nROW4 C1: coral-cardigan lady holds bucket to AJ who takes ONE wrapped candy while Ryan Michael wait, other hand pillowcase. C2: same lady pulls bucket away gently as AJ asks for more, comic disappointed expression, no grabbing her arm. C3: boys move from one neighborhood doorstep to next, pillowcases beginning to fill, focus all three walking eagerly. C4: boys pause on sidewalk each eating ONE unwrapped piece of candy from cream pillowcase, same helmets, cheerful energy.\nExactly 16 cells, no panels within cells, no merged cells. Clear human hands with correct ownership. Keep helmets toy axes and colors in EVERY child appearance. Maximal native quality; do not make a low-resolution contact sheet.\n",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "lossless_tiles": true,
+      "review_note": "Inspected all sixteen cells in row-major order: same three distinct helmets and costumes, mother handoff, route map, source costume crowd, first-house lady, plain pillowcases, candy-taking and eating. Native grid dimensions recorded; no upsampling.",
+      "generated_at": "20261117T071503Z"
+    }
   ]
 }
