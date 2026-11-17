@@ -3296,10 +3296,20 @@
     "source_paragraph_ids": [
       "p0136"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "(That was really weird. Everybody knows mummies are dead bodies to begin with.)",
+    "alt": "(That was really weird. Everybody knows mummies are dead bodies to begin with.)",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b016-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "ch10-sc03",
@@ -3337,10 +3347,20 @@
       "p0138",
       "p0139"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Get him, Mr. Klutz!\" we all shouted. \"Kill the Halloween Monster!\" Mr. Klutz and Marvin were dancing around, swinging their swords at each ",
+    "alt": "\"Get him, Mr. Klutz!\" we all shouted. \"Kill the Halloween Monster!\" Mr. Klutz and Marvin were dancing around, swinging their swords at each ",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b002-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b003-scene",
@@ -3353,10 +3373,20 @@
       "p0140",
       "p0141"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Off with your head!\" Mr. Klutz said, taking a wild swing. \"His head is already off!\" somebody yelled. \"Oh,\" Mr. Klutz said.",
+    "alt": "\"Off with your head!\" Mr. Klutz said, taking a wild swing. \"His head is already off!\" somebody yelled. \"Oh,\" Mr. Klutz said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b003-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b004-scene",
@@ -3368,10 +3398,20 @@
       "p0141",
       "p0142"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Let him eat cake!\" The sword fight was really exciting. Finally, after a million hundred minutes, Mr. Klutz knocked the sword out of the Ha",
+    "alt": "\"Let him eat cake!\" The sword fight was really exciting. Finally, after a million hundred minutes, Mr. Klutz knocked the sword out of the Ha",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b004-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b005-scene",
@@ -3383,10 +3423,20 @@
       "p0143",
       "p0144"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Please have mercy,\" Marvin said as he fell to his knees. \"Begone!\" Mr. Klutz said. \"Don't ever steal candy from the children of Ella Mentry",
+    "alt": "\"Please have mercy,\" Marvin said as he fell to his knees. \"Begone!\" Mr. Klutz said. \"Don't ever steal candy from the children of Ella Mentry",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b005-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b006-scene",
@@ -3399,10 +3449,20 @@
       "p0146",
       "p0147"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"I'll get you, my pretty,\" said the Halloween Monster as it ran up the stairs, \"and your little dog, too.\" \"I don't even have a dog,\" said M",
+    "alt": "\"I'll get you, my pretty,\" said the Halloween Monster as it ran up the stairs, \"and your little dog, too.\" \"I don't even have a dog,\" said M",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b006-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b007-scene",
@@ -3414,10 +3474,20 @@
       "p0148",
       "p0149"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Hooray for Mr. Klutz!\" she yelled. We all started cheering. \"I have defeated the Halloween Monster!\" said Mr. Klutz . . . I mean, Louis the",
+    "alt": "\"Hooray for Mr. Klutz!\" she yelled. We all started cheering. \"I have defeated the Halloween Monster!\" said Mr. Klutz . . . I mean, Louis the",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b007-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b008-scene",
@@ -3429,10 +3499,20 @@
       "p0150",
       "p0151"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"We should celebrate!\" said Mrs. Patty. \"Let's have a candy party!\" \"Yeah!\" we all yelled.",
+    "alt": "\"We should celebrate!\" said Mrs. Patty. \"Let's have a candy party!\" \"Yeah!\" we all yelled.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b008-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b009-scene",
@@ -3443,10 +3523,20 @@
     "source_paragraph_ids": [
       "p0152"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Mr. Klutz and Mrs. Patty tipped over the treasure chest and dumped all the candy on the floor. We were allowed to eat whatever we wanted and",
+    "alt": "Mr. Klutz and Mrs. Patty tipped over the treasure chest and dumped all the candy on the floor. We were allowed to eat whatever we wanted and",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b009-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "ch10-sc04",
@@ -3482,10 +3572,20 @@
     "source_paragraph_ids": [
       "p0153"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Maybe Mrs. Patty does keep her Halloween decorations up all year round. Maybe her husband, Marvin, really is dead. Maybe she did chop his he",
+    "alt": "Maybe Mrs. Patty does keep her Halloween decorations up all year round. Maybe her husband, Marvin, really is dead. Maybe she did chop his he",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b011-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b012-scene",
@@ -3496,10 +3596,20 @@
     "source_paragraph_ids": [
       "p0153"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Maybe that's why he's so mad and he has to run around the house holding his own head. Maybe now that he lost the sword fight to Mr. Klutz, h",
+    "alt": "Maybe that's why he's so mad and he has to run around the house holding his own head. Maybe now that he lost the sword fight to Mr. Klutz, h",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b012-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   },
   {
     "id": "c10p02-b013-scene",
@@ -3511,9 +3621,19 @@
       "p0153",
       "p0154"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "And maybe Mrs. Patty will be able to get that wart off her nose. But it won't be easy!",
+    "alt": "And maybe Mrs. Patty will be able to get that wart off her nose. But it won't be easy!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p02-b013-scene.webp",
+    "width": 306,
+    "height": 309,
+    "grid_id": "dense-008",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1248,
+    "grid_native_height": 1260,
+    "grid_sha256": "b0d73e7caea1468a409871e2a27542ea9d9a1215ef58d9fef27c1e3c774c2b24",
+    "review_note": "Inspected twelve used cells: one head in mummy left hand, sword right only duel, disarmed right hand empty, kneeling mercy and Patty arrives after mummy leaves, candy party, three distinct AJ red-pajama bedroom views without costume. Four final cream cells unused. All used tiles preserve native resolution.",
+    "generated_at": "20261117T082148Z"
   }
 ]
