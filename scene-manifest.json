@@ -123,7 +123,15 @@
       "MWS13-BILLY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch07-sc01.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch07-sc01-ch07-sc02-ch07-sc03-ch07-sc04",
+    "quadrant": 1,
+    "generated_at": "20261117T063944396763Z",
+    "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
   },
   {
     "id": "ch07-sc02",
@@ -142,7 +150,15 @@
       "MWS13-BILLY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch07-sc02.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch07-sc01-ch07-sc02-ch07-sc03-ch07-sc04",
+    "quadrant": 2,
+    "generated_at": "20261117T063944396763Z",
+    "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
   },
   {
     "id": "ch07-sc03",
@@ -161,7 +177,15 @@
       "MWS13-BILLY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch07-sc03.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch07-sc01-ch07-sc02-ch07-sc03-ch07-sc04",
+    "quadrant": 3,
+    "generated_at": "20261117T063944396763Z",
+    "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
   },
   {
     "id": "ch07-sc04",
@@ -180,7 +204,15 @@
       "MWS13-BILLY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch07-sc04.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch07-sc01-ch07-sc02-ch07-sc03-ch07-sc04",
+    "quadrant": 4,
+    "generated_at": "20261117T063944396763Z",
+    "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
+    "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
   },
   {
     "id": "ch08-sc01",

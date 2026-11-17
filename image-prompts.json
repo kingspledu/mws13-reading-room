@@ -13,5 +13,20 @@
       "grid_sha256": "b5d92a670fb2a421d40d525eb4102b340add96622124d1eefab07e625f92c51d",
       "review_note": "Inspected all four quadrants: three boys keep distinct costumes, four banana children, two-headed astronaut, nurse bowl, masked Billy, chronology and theatrical props correct."
     }
+  ],
+  "ch07-sc01-ch07-sc02-ch07-sc03-ch07-sc04": [
+    {
+      "scene_ids": [
+        "ch07-sc01",
+        "ch07-sc02",
+        "ch07-sc03",
+        "ch07-sc04"
+      ],
+      "grid": "2x2",
+      "prompt": "Use case illustration-story. ONE SQUARE exact 2x2 grid, FOUR different square standalone scenes with thin white center gutters at 50%, no text lettering captions speech bubbles watermark. Reference image ONLY locks faces hair costumes, not page layout. Warm pastel rounded Korean webtoon school Halloween comedy. AJ penguin suit clear SPACE HELMET toy axe attached; Ryan green hockey suit helmet toy axe; Michael orange American football uniform helmet toy axe; all child boys cream pillowcases heavy with candy. Billy child brown furry wolf costume white briefs OVER fur. TOP LEFT: by low neighborhood wall at dusk Billy waves furry arms shouting boo (NO text), three boys recoil startled, hands grip their pillowcases, Billy wearing full furry mask. TOP RIGHT: same wall, Billy has taken off furry mask and holds it beside his body, reveals friendly brown-haired boy face and grins, exactly three boys recognize him laughing. BOTTOM LEFT: Michael shows Billy his big folded route map while AJ and Ryan listen, four children together near wall, Billy holds mask. BOTTOM RIGHT: Billy walks away down neighborhood sidewalk with furry mask in hand, remaining three boys by wall look worried and AJ covers his own neck with free hand while holding pillowcase with other, dusk sky darker. Rumors about witch or ghosts MUST NOT be illustrated as literal real scenes. No extra people, no mummy, no spooky house yet, no gore. Clear anatomy and preserve all helmets and costume colors.\n",
+      "generated_at": "20261117T063944396763Z",
+      "grid_sha256": "e08fdb3fffbc0274961a8cbdbd464f23c7ba273e6580e3dbf861b258627f0007",
+      "review_note": "Inspected: same three boys and helmets, Billy mask removed at reveal then held, four cast only, map continuity, AJ neck gesture, no literal rumor flashbacks."
+    }
   ]
 }
