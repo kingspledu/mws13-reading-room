@@ -1399,10 +1399,20 @@
       "p0073",
       "p0074"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Every time I get sent to the principal's office, she seems so nice. One time she even gave me a lollipop. I really wanted to see what kind o",
+    "alt": "Every time I get sent to the principal's office, she seems so nice. One time she even gave me a lollipop. I really wanted to see what kind o",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b018-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c07p01-b019-scene",
@@ -1414,10 +1424,20 @@
       "p0074",
       "p0075"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "But if she chopped my head off, I wouldn't be able to eat the candy anyway. I didn't know what to do. \"I don't believe you,\" Ryan told Billy",
+    "alt": "But if she chopped my head off, I wouldn't be able to eat the candy anyway. I didn't know what to do. \"I don't believe you,\" Ryan told Billy",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b019-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c07p01-b020-scene",
@@ -1428,10 +1448,20 @@
     "source_paragraph_ids": [
       "p0075"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Mrs. Patty isn't a witch. And she's got more candy than anyone in town. That's what she told us.\"",
+    "alt": "\"Mrs. Patty isn't a witch. And she's got more candy than anyone in town. That's what she told us.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b020-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c07p01-b021-scene",
@@ -1442,10 +1472,20 @@
     "source_paragraph_ids": [
       "p0076"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"She just told you that so you'll come to her house,\" Billy said. \"Go see for yourself. But don't say I didn't warn you.",
+    "alt": "\"She just told you that so you'll come to her house,\" Billy said. \"Go see for yourself. But don't say I didn't warn you.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b021-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "ch07-sc04",
@@ -1485,10 +1525,20 @@
     "source_paragraph_ids": [
       "p0077"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "I put my hand over my neck. Maybe Halloween isn't my favorite holiday after all.",
+    "alt": "I put my hand over my neck. Maybe Halloween isn't my favorite holiday after all.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c07p01-b023-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b001-scene",
@@ -1500,10 +1550,20 @@
       "p0078",
       "p0079"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Maybe we should go home now,\" I told Michael and Ryan. \"We have plenty of candy.\" \"Go home?\" Michael said.",
+    "alt": "\"Maybe we should go home now,\" I told Michael and Ryan. \"We have plenty of candy.\" \"Go home?\" Michael said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b001-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b002-scene",
@@ -1514,10 +1574,20 @@
     "source_paragraph_ids": [
       "p0079"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Are you crazy? We haven't been to Mrs. Patty's house yet. She has more candy than anyone in town.\"",
+    "alt": "\"Are you crazy? We haven't been to Mrs. Patty's house yet. She has more candy than anyone in town.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b002-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b003-scene",
@@ -1529,10 +1599,20 @@
       "p0079",
       "p0080"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"But what if she chops our heads off?\" I asked. \"Stuff like that happens all the time, you know.\" \"She's not going to chop our heads off,\" R",
+    "alt": "\"But what if she chops our heads off?\" I asked. \"Stuff like that happens all the time, you know.\" \"She's not going to chop our heads off,\" R",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b003-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b004-scene",
@@ -1544,10 +1624,20 @@
       "p0080",
       "p0081"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Your friend Billy doesn't know what he's talking about.\" \"Yeah,\" Michael said, \"and Mrs. Patty told us over and over again that we have to ",
+    "alt": "\"Your friend Billy doesn't know what he's talking about.\" \"Yeah,\" Michael said, \"and Mrs. Patty told us over and over again that we have to ",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b004-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "ch08-sc01",
@@ -1586,10 +1676,20 @@
     "source_paragraph_ids": [
       "p0083"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It was dark now, and scary. I was looking all around, just in case the real Halloween Monster jumped out from behind a wall. \"Do you think M",
+    "alt": "It was dark now, and scary. I was looking all around, just in case the real Halloween Monster jumped out from behind a wall. \"Do you think M",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b006-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b007-scene",
@@ -1601,10 +1701,20 @@
       "p0084",
       "p0085"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Ghosts have to live somewhere,\" Michael said. \"They're just like regular people, except they're dead.\" \"I feel sorry for ghosts,\" said Ryan",
+    "alt": "\"Ghosts have to live somewhere,\" Michael said. \"They're just like regular people, except they're dead.\" \"I feel sorry for ghosts,\" said Ryan",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b007-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b008-scene",
@@ -1616,10 +1726,20 @@
       "p0085",
       "p0086"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"They're like homeless dead people.\" We turned the corner onto Norman Road, where Mrs. Patty lives. That's when I saw the most horrible, dre",
+    "alt": "\"They're like homeless dead people.\" We turned the corner onto Norman Road, where Mrs. Patty lives. That's when I saw the most horrible, dre",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b008-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b009-scene",
@@ -1630,10 +1750,20 @@
     "source_paragraph_ids": [
       "p0087"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It was Andrea Young! She was with her annoying little friend Emily, and they were dressed in their girly costumes. Emily's mom must have sew",
+    "alt": "It was Andrea Young! She was with her annoying little friend Emily, and they were dressed in their girly costumes. Emily's mom must have sew",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b009-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 13,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b010-scene",
@@ -1645,10 +1775,20 @@
       "p0088",
       "p0089"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"What are you two doing here?\" I asked. \"We're trick-or-treating, dumbhead,\" Andrea said. \"Just like you.\"",
+    "alt": "\"What are you two doing here?\" I asked. \"We're trick-or-treating, dumbhead,\" Andrea said. \"Just like you.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b010-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 14,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "ch08-sc02",
@@ -1689,10 +1829,20 @@
     "source_paragraph_ids": [
       "p0091"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It was a big house. It looked really old, like one of those haunted houses in the movies. There was an iron gate on the outside and some dea",
+    "alt": "It was a big house. It looked really old, like one of those haunted houses in the movies. There was an iron gate on the outside and some dea",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b012-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 15,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "ch08-sc03",
@@ -1733,10 +1883,20 @@
     "source_paragraph_ids": [
       "p0093"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "There were tombstones sticking out of the lawn. A foot was poking out of a window. There were jack-o'-lanterns with evil faces, spiders hang",
+    "alt": "There were tombstones sticking out of the lawn. A foot was poking out of a window. There were jack-o'-lanterns with evil faces, spiders hang",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c08p01-b014-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-004",
+    "grid_cell_row_major": 16,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "35de9ed670a8dfa72c68642b1bbb5d99aa139ab0a1645991f24392c7fb9036c6",
+    "review_note": "Inspected sixteen scenes. Corrected only row1 col2 and col4 so Billy stays unmasked; fourteen original tiles preserved. AJ reflection, three-boy street dialogue, girls join only at reveal, mansion gate and prop decorations match reference.",
+    "generated_at": "20261117T073424Z"
   },
   {
     "id": "c08p01-b015-scene",
