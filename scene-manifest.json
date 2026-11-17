@@ -2810,10 +2810,20 @@
     "source_paragraph_ids": [
       "p0120"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Open the door, A.J. We'll get the candy and get out of here.\" I looked at Ryan. Emily looked at Andrea.",
+    "alt": "\"Open the door, A.J. We'll get the candy and get out of here.\" I looked at Ryan. Emily looked at Andrea.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p02-b016-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 1,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c09p02-b017-scene",
@@ -2824,10 +2834,20 @@
     "source_paragraph_ids": [
       "p0120"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael looked at me. I didn't know what to say. I didn't know what to do.",
+    "alt": "Michael looked at me. I didn't know what to say. I didn't know what to do.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p02-b017-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 2,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "ch09-sc04",
@@ -2867,10 +2887,20 @@
     "source_paragraph_ids": [
       "p0120"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Well, I'm not going to tell you. \"Okay, okay, I'll tell you. But you have to read the next chapter, so nah-nah-nah boo-boo on you.\"",
+    "alt": "Well, I'm not going to tell you. \"Okay, okay, I'll tell you. But you have to read the next chapter, so nah-nah-nah boo-boo on you.\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c09p02-b019-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 3,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b001-scene",
@@ -2881,10 +2911,20 @@
     "source_paragraph_ids": [
       "p0121"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Behind the door was a big, dark room, and it was full of kids. I couldn't see much, but I recognized Neil the nude kid, and Annette, and som",
+    "alt": "Behind the door was a big, dark room, and it was full of kids. I couldn't see much, but I recognized Neil the nude kid, and Annette, and som",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b001-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 4,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b002-scene",
@@ -2895,10 +2935,20 @@
     "source_paragraph_ids": [
       "p0122"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "It was weird. In the middle of the room was a big trunk. It was like one of those trunks that pirates used to hide their treasure.",
+    "alt": "It was weird. In the middle of the room was a big trunk. It was like one of those trunks that pirates used to hide their treasure.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b002-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 5,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b003-scene",
@@ -2910,10 +2960,20 @@
       "p0123",
       "p0124"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Michael asked, \"What's in the—\" But he never got the chance to finish his sentence, because suddenly the top of the trunk started to lift up",
+    "alt": "Michael asked, \"What's in the—\" But he never got the chance to finish his sentence, because suddenly the top of the trunk started to lift up",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b003-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 6,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "ch10-sc01",
@@ -2958,10 +3018,20 @@
     "source_paragraph_ids": [
       "p0125"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Well, it *had* a head, but the head wasn't on top of its shoulders where it was supposed to be. The mummy was holding its head in its hand l",
+    "alt": "Well, it *had* a head, but the head wasn't on top of its shoulders where it was supposed to be. The mummy was holding its head in its hand l",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b005-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 7,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b006-scene",
@@ -2972,10 +3042,20 @@
     "source_paragraph_ids": [
       "p0126"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"It's Marvin!\" I shouted. \"Mrs. Patty's dead husband! His ghost came to life!\"",
+    "alt": "\"It's Marvin!\" I shouted. \"Mrs. Patty's dead husband! His ghost came to life!\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b006-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 8,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b007-scene",
@@ -2988,10 +3068,20 @@
       "p0127",
       "p0128"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"He's the Halloween Monster!\" yelled Ryan. \"We're gonna die!\" Michael screamed. \"I *told* you we should have made a run for it!\" I shouted.",
+    "alt": "\"He's the Halloween Monster!\" yelled Ryan. \"We're gonna die!\" Michael screamed. \"I *told* you we should have made a run for it!\" I shouted.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b007-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 9,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b008-scene",
@@ -3002,10 +3092,20 @@
     "source_paragraph_ids": [
       "p0129"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"Bwa-ha-ha-ha!\" said Marvin's head. I had no idea how it was able to talk, but it did. It said, \"Give me your candy!",
+    "alt": "\"Bwa-ha-ha-ha!\" said Marvin's head. I had no idea how it was able to talk, but it did. It said, \"Give me your candy!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b008-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 10,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b009-scene",
@@ -3017,10 +3117,20 @@
       "p0129",
       "p0130"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "Put everything in the trunk, or else.\" That head didn't have to ask me twice. I ran over and dumped all the candy from my pillowcase into th",
+    "alt": "Put everything in the trunk, or else.\" That head didn't have to ask me twice. I ran over and dumped all the candy from my pillowcase into th",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b009-scene.webp",
+    "width": 307,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 11,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b010-scene",
@@ -3032,10 +3142,20 @@
       "p0130",
       "p0131"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "So did Ryan and Michael and Andrea and Emily and Neil the nude kid and Annette. I guess that mummy made *all* the kids turn over their candy",
+    "alt": "So did Ryan and Michael and Andrea and Emily and Neil the nude kid and Annette. I guess that mummy made *all* the kids turn over their candy",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b010-scene.webp",
+    "width": 308,
+    "height": 307,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 12,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b011-scene",
@@ -3046,10 +3166,20 @@
     "source_paragraph_ids": [
       "p0131"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "\"It's mine! All mine! Now at long last I have more candy than anyone in town!",
+    "alt": "\"It's mine! All mine! Now at long last I have more candy than anyone in town!",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b011-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 13,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b012-scene",
@@ -3061,10 +3191,20 @@
       "p0131",
       "p0132"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "My life is complete! Bwa-ha-ha-ha!\" \"That's what *you* think!\"",
+    "alt": "My life is complete! Bwa-ha-ha-ha!\" \"That's what *you* think!\"",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b012-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 14,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b013-scene",
@@ -3075,10 +3215,20 @@
     "source_paragraph_ids": [
       "p0133"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "We all turned to see who said that. A big guy stepped out of the shadows at the other end of the room. He had a crown on his head and a swor",
+    "alt": "We all turned to see who said that. A big guy stepped out of the shadows at the other end of the room. He had a crown on his head and a swor",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b013-scene.webp",
+    "width": 307,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 15,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "ch10-sc02",
@@ -3122,10 +3272,20 @@
       "p0135",
       "p0136"
     ],
-    "description": "",
-    "alt": "",
-    "status": "planned",
-    "character_ids": []
+    "description": "In the name of France, surrender that candy!\" \"Over my dead body!\" Marvin said.",
+    "alt": "In the name of France, surrender that candy!\" \"Over my dead body!\" Marvin said.",
+    "status": "integrated",
+    "character_ids": [],
+    "web_asset_path": "assets/c10p01-b015-scene.webp",
+    "width": 308,
+    "height": 308,
+    "grid_id": "dense-007",
+    "grid_cell_row_major": 16,
+    "grid_native_width": 1254,
+    "grid_native_height": 1254,
+    "grid_sha256": "aea668f1a8509f44bb106efbc194f86f81c0188847335efd3dec339c199d8d43",
+    "review_note": "Inspected all sixteen scenes and exact source order. Corrected cell5 to source-supported closed trunk object detail and cell12 to girls purple totes; fourteen original tiles preserved. Mummy has one head held in left hand, no sword before duel. Neil clothed, Klutz only final reveal cells.",
+    "generated_at": "20261117T075657Z"
   },
   {
     "id": "c10p01-b016-scene",
