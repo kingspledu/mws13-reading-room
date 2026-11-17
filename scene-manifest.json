@@ -342,7 +342,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch09-sc01.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch09-sc01-ch09-sc02-ch09-sc03-ch09-sc04",
+    "quadrant": 1,
+    "generated_at": "20261117T064530483534Z",
+    "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
   },
   {
     "id": "ch09-sc02",
@@ -363,7 +371,15 @@
       "MWS13-PATTY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch09-sc02.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch09-sc01-ch09-sc02-ch09-sc03-ch09-sc04",
+    "quadrant": 2,
+    "generated_at": "20261117T064530483534Z",
+    "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
   },
   {
     "id": "ch09-sc03",
@@ -383,7 +399,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch09-sc03.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch09-sc01-ch09-sc02-ch09-sc03-ch09-sc04",
+    "quadrant": 3,
+    "generated_at": "20261117T064530483534Z",
+    "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
   },
   {
     "id": "ch09-sc04",
@@ -403,7 +427,15 @@
       "MWS13-EMILY-01"
     ],
     "state": "Halloween evening",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/ch09-sc04.webp",
+    "width": 619,
+    "height": 619,
+    "grid_id": "ch09-sc01-ch09-sc02-ch09-sc03-ch09-sc04",
+    "quadrant": 4,
+    "generated_at": "20261117T064530483534Z",
+    "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
+    "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
   },
   {
     "id": "ch10-sc01",

@@ -43,5 +43,20 @@
       "grid_sha256": "569e19d88cc056b800f87f0dba2fd44e1668d238fcd83f09ccfa707de7f55cad",
       "review_note": "Inspected night progression, three then five children, repaired queen gown, same mansion and gate closed then open, no visible offscreen voice identity, props remain decorations."
     }
+  ],
+  "ch09-sc01-ch09-sc02-ch09-sc03-ch09-sc04": [
+    {
+      "scene_ids": [
+        "ch09-sc01",
+        "ch09-sc02",
+        "ch09-sc03",
+        "ch09-sc04"
+      ],
+      "grid": "2x2",
+      "prompt": "Edit the FIRST image (four-scene chapter9 grid) only. Preserve EXACT layout, all five child identities, costumes helmets faces hands poses expressions, Mrs Patty, all events, text-free style. Make only continuity corrections using SECOND image as architectural and bag color reference: In TOP LEFT and TOP RIGHT, replace gothic stone exterior door surround with the gray painted wood clapboard siding and white painted porch columns/trim of the mansion in SECOND image, matching the same old wooden mansion. Keep warm wooden front door, web decorations, pumpkin foot gag and action unchanged. Keep BOTTOM basement stone interior unchanged. In ALL FOUR scenes, each of the THREE BOYS must carry a plain soft cream PILLOWCASE for candy, no drawstrings, no handles, NO pumpkin prints. The TWO GIRLS each carry a small PURPLE tote with orange Halloween motif as in second reference, not cream sacks. Preserve each character's hands anatomically; AJ may have hands out for balance in pumpkin gag so don't add a bag in his hands there. No new characters, no extra limbs, no other changes. Correct only architecture and candy-container continuity.\n",
+      "generated_at": "20261117T064530483534Z",
+      "grid_sha256": "ccd11397a6dc9ab4be33dfea0831d4c6e77a8f7ad0ec64e38d070b0d2aa8eb3f",
+      "review_note": "Inspected revised reference continuity: gray wooden mansion porch, three plain pillowcases, girls purple totes, intact queen gown, five cast each, closed final door, no premature mummy reveal. Original v1 and generation prompt retained locally."
+    }
   ]
 }

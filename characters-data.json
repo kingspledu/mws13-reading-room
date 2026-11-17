@@ -26,7 +26,13 @@
     "states": [
       "From chapter 3 morning until the end of the trick-or-treat visit: penguin costume, space helmet, prop ax and fake blood on helmet. Chapter 10 final bedtime: no costume, ordinary covered bedtime clothes."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 1,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "이야기의 화자. 할로윈에는 펭귄 복장·우주 헬멧·장난감 도끼를 유지하고, 마지막 취침 장면에서는 잠옷으로 바뀝니다."
   },
   {
     "name": "Mrs. Patty",
@@ -45,7 +51,13 @@
     "states": [
       "From chapter 3: witch costume, long bent false nose with large wart and broomstick when source specifies it. Skeleton earrings remain."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 1,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "학교 비서. 해골 귀걸이를 유지합니다. 할로윈에는 보라색 마녀 복장과 가짜 매부리코·사마귀를 사용합니다."
   },
   {
     "name": "Ryan",
@@ -74,7 +86,13 @@
     "states": [
       "From chapter 3: hockey uniform and helmet with prop ax and fake blood."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 2,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "A.J.의 친구. 녹색 하키 유니폼과 헬멧으로 Michael과 구분합니다."
   },
   {
     "name": "Michael",
@@ -102,7 +120,13 @@
     "states": [
       "From chapter 3: peewee football uniform and helmet with prop ax and fake blood. Shoelaces remain untied where visible."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 3,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "사탕을 많이 모을 동선을 계획하는 친구. 주황색 미식축구 유니폼·헬멧과 풀린 신발끈이 기준입니다."
   },
   {
     "name": "Andrea",
@@ -127,7 +151,13 @@
     "states": [
       "From chapter 3: ballerina costume; keep curly brown hair."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 4,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "갈색 곱슬머리의 반 친구. 할로윈 발레리나 복장을 유지합니다."
   },
   {
     "name": "Unidentified child voice",
@@ -145,7 +175,8 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "offscreen"
+    "visibility": "offscreen",
+    "continuity_note_ko": "누구인지 특정되지 않은 아이의 목소리. 임의의 얼굴이나 이름을 만들지 않습니다."
   },
   {
     "character_id": "MWS13-EMILY-01",
@@ -168,7 +199,13 @@
     "states": [
       "From chapter 3: queen costume, crown and long robe train. Parade mishap: frame face, crown and fallen train, obscure body with intact fabric or foreground; no exposed underwear, no humiliating body close-up. Costume repaired again from Norman Road encounter onward."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 5,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "왕관과 긴 옷자락이 있는 여왕 복장. 8장 Norman Road 장면부터는 수선된 온전한 의상입니다."
   },
   {
     "character_id": "MWS13-DAISY-01",
@@ -187,7 +224,13 @@
     "states": [
       "Giant brown bonbon costume during school scenes."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 4,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "갈색 단발머리의 선생님. 학교 장면에서는 커다란 갈색 초콜릿 봉봉 의상을 입습니다."
   },
   {
     "character_id": "MWS13-KLUTZ-01",
@@ -205,7 +248,13 @@
     "states": [
       "King Louis the Fourteenth costume with crown, gold cape and sword; bald identity remains recognizable."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 2,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "대머리 교장 선생님. 왕관·금색 망토·칼을 갖춘 왕 분장이며, 별도의 루이 14세가 등장하는 것이 아닙니다."
   },
   {
     "character_id": "MWS13-NEIL-01",
@@ -222,7 +271,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 1,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "별명과 관계없이 항상 옷을 완전히 입은 아이로 표현합니다."
   },
   {
     "character_id": "MWS13-ANNETTE-01",
@@ -238,7 +293,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 2,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "반 친구. 10장 지하실에 등장합니다. 별도의 반려견을 추가하지 않습니다."
   },
   {
     "character_id": "MWS13-BILLY-01",
@@ -254,7 +315,13 @@
     "states": [
       "Underwearwolf costume: thick brown fur costume, hairy removable mask and white briefs over fur; no nudity."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/students-reference.webp",
+      "cell_row_major": 6,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "갈색 털 늑대 의상을 입은 한 명의 아이입니다. 흰 팬티는 털 의상 위에 입으며, 7장에 가면을 벗어 정체를 드러냅니다."
   },
   {
     "character_id": "MWS13-MARVIN-01",
@@ -270,7 +337,13 @@
     "states": [
       "Bandages and apparent head-in-hand theatrical illusion. Source-required sword is acquired only when the duel begins."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 3,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "머리를 손에 든 것처럼 보이는 미라 캐릭터. 소문으로 전해지는 과거를 사실 장면으로 추가하지 않습니다. 결투가 시작된 뒤에만 칼을 듭니다."
   },
   {
     "character_id": "MWS13-STUDENTS-01",
@@ -296,7 +369,8 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "continuity_note_ko": "원문 장면에 필요한 익명의 학생들입니다. 군중을 특정 이름의 인물로 바꾸지 않습니다."
   },
   {
     "character_id": "MWS13-COONEY-01",
@@ -311,7 +385,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 5,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "자기 집에서 사과·당근·견과류를 나눠 주는 학교 간호사입니다."
   },
   {
     "character_id": "MWS13-LADY-01",
@@ -327,7 +407,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/adults-reference.webp",
+      "cell_row_major": 6,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "첫 번째 집에서 사탕 양동이를 내미는 여성입니다. Mrs. Cooney와 다른 인물입니다."
   },
   {
     "character_id": "MWS13-QUARTER-MAN-01",
@@ -342,7 +428,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 8,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "사탕이 떨어져서 아이들에게 각각 25센트 동전을 주는 집주인입니다."
   },
   {
     "character_id": "MWS13-AJ-MOM-01",
@@ -355,7 +447,13 @@
     ],
     "appearance_basis": "Explicit source traits are binding; unspecified base clothing and hair are provisional design choices.",
     "states": [],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 3,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "학교 의상 행렬에서 카메라를 들고 지켜보는 A.J.의 어머니입니다."
   },
   {
     "character_id": "MWS13-HANNAH-01",
@@ -371,7 +469,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 4,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "피카소 분장을 한 미술 선생님. 역사 속 화가 본인을 별도 캐릭터로 추가하지 않습니다."
   },
   {
     "character_id": "MWS13-SMALL-01",
@@ -387,7 +491,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 5,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "베이브 루스 분장을 한 체육 선생님입니다."
   },
   {
     "character_id": "MWS13-KORMEL-01",
@@ -403,7 +513,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 6,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "제프 고든 분장을 한 버스 기사입니다."
   },
   {
     "character_id": "MWS13-ROOPY-01",
@@ -419,7 +535,13 @@
     "states": [
       "Canonical design unless source explicitly changes it."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 7,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "이름이 명시되지 않은 아동문학 작가 분장을 한 사서입니다. 임의의 유명 작가로 확정하지 않습니다."
   },
   {
     "name": "Michael's mother",
@@ -432,7 +554,13 @@
     "states": [
       "Ordinary home clothes; hands out three pillowcases."
     ],
-    "visibility": "present"
+    "visibility": "present",
+    "visual_reference": {
+      "asset": "assets/supporting-reference.webp",
+      "cell_row_major": 9,
+      "role": "Locked adaptation face, proportions and wardrobe; source facts override provisional design."
+    },
+    "continuity_note_ko": "6장 시작에서 세 아이에게 베갯잇을 하나씩 건네는 Michael의 어머니입니다."
   },
   {
     "name": "Gate voice / computer voice",
@@ -446,7 +574,8 @@
     "states": [
       "Offscreen audio source only."
     ],
-    "visibility": "offscreen"
+    "visibility": "offscreen",
+    "continuity_note_ko": "대문에서 들리는 목소리. 화면에 남자나 유령을 새로 등장시키지 않습니다."
   },
   {
     "name": "Miss Lazar",
@@ -459,7 +588,8 @@
     "states": [
       "Mention only; do not add a visible character."
     ],
-    "visibility": "mention"
+    "visibility": "mention",
+    "continuity_note_ko": "1장의 방송에서 언급될 뿐, 해당 장면에 직접 나타나지 않습니다."
   },
   {
     "name": "Halloween costume groups & decorations",
@@ -473,6 +603,7 @@
     "states": [
       "Do not turn imaginary bears, lions, elephants, ghosts or alleged murder flashbacks into factual events."
     ],
-    "visibility": "group"
+    "visibility": "group",
+    "continuity_note_ko": "군중 의상·장식 소품을 실제 괴물이나 동물과 구분합니다. 거대 바나나 복장은 정확히 네 아이입니다."
   }
 ]
